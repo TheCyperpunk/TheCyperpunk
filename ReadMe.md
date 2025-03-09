@@ -1,39 +1,18 @@
 # 💫 About Me:
-<br><br># 👋 About Me  <br><br>Hello! I'm **Sangeeth Karunakaran**, a **3rd-year Computer Science and Engineering student** with a strong passion for **Full-Stack Development, AI, Blockchain, and DevOps**. I specialize in **building scalable, efficient, and intelligent applications** by leveraging modern technologies.  <br><br>I believe in **learning by building** and constantly explore **new frameworks and tools** to stay ahead in the ever-evolving tech landscape.  <br><br>---<br><br>## 💡 **Technical Skills & Expertise**  <br><br>### 🎨 **Frontend Development**  <br>- **Languages:**  JavaScript, TypeScript, HTML, CSS, Dart, SASS, SCSS
+<br><br># 👋 About Me  <br><br>Hello! I'm **Sangeeth Karunakaran**, a **3rd-year Computer Science and Engineering student** with a strong passion for **Full-Stack Development, AI, Blockchain, and DevOps**. I specialize in **building scalable, efficient, and intelligent applications** by leveraging modern technologies.  <br><br>I believe in **learning by building** and constantly explore **new frameworks and tools** to stay ahead in the ever-evolving tech landscape.  <br><br>---<br><br>## 💡 **Technical Skills & Expertise**  <br><br>### 🎨 **Frontend Development**  <br>- **Languages:**  JavaScript, TypeScript, HTML, CSS, Dart, SASS, SCSS <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+</div>
   <br>- **Frameworks & Libraries:** React.js, Next.js, Vue.js, Angular, Svelte, Preact <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-</div>
-  <br>- **State Management:** Redux, Zustand, Recoil, Vuex, Pinia  <br>- **Mobile & Cross-Platform Development:** React Native, Flutter, Expo  <br>- **UI/UX & Component Libraries:** Material UI, Ant Design, Chakra UI, Tailwind CSS, Bootstrap, ShadCN  <br>- **Web Performance & Optimization:** Webpack, Vite, Babel, ESLint, Lighthouse  <br><br>### 🔧 **Backend Development**  <br>- **Languages:** JavaScript, TypeScript, Python, Go, Rust, Java, PHP, C#  <br>- **Frameworks & Libraries:**  <br>  - **JavaScript/TypeScript:** Node.js, Express.js, NestJS, Fastify  <br>  - **Python:** Django, Flask, FastAPI  <br>  - **Go:** Gin, Fiber, Echo  <br>  - **Java:** Spring Boot, Micronaut  <br>  - **PHP:** Laravel, CodeIgniter  <br>  - **C#/.NET:** ASP.NET Core, Blazor  <br>- **Database Management:** MySQL, PostgreSQL, MongoDB, Firebase, SQLite, Redis, Cassandra  <br>- **Authentication & Security:** JWT, OAuth 2.0, Firebase Auth, LDAP, Keycloak  <br>- **Message Queues & Event-Driven Architecture:** RabbitMQ, Kafka, NATS, Redis Pub/Sub  <br>- **API Development:** RESTful APIs, GraphQL (Apollo, Hasura), gRPC  <br><br>### 🤖 **AI, LLMs & Machine Learning**  <br>- **LLMs & NLP:** Mistral 7B, LLAVA 1.6, LangChain, OpenAI API  <br>- **Deep Learning:** TensorFlow, PyTorch, Keras, Hugging Face Transformers  <br>- **Computer Vision:** OpenCV, YOLO, GANs, MediaPipe  <br>- **Data Analytics & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Plotly  <br>- **AI-Powered Optimization:** Reinforcement Learning, Genetic Algorithms  <br><br>### 🔗 **Blockchain & Web3 Development**  <br>- **Smart Contract Development:** Solidity, Rust (for Solana), Vyper  <br>- **Blockchain Networks:** Ethereum, Polygon, Solana, Binance Smart Chain (BSC)  <br>- **Web3 Development:** Ethers.js, Web3.js, IPFS, Moralis, Hardhat, Foundry  <br>- **dApps & DeFi:** NFT Marketplaces, DAO Platforms, Smart Contract Audits  <br><br>### ⚙️ **DevOps, Cloud & Infrastructure**  <br>- **CI/CD & Automation:** Docker, Kubernetes, GitHub Actions, GitLab CI/CD  <br>- **Cloud Platforms:** AWS (EC2, S3, Lambda, RDS), Firebase, Vercel, Netlify, DigitalOcean  <br>- **Infrastructure as Code (IaC):** Terraform, Ansible, Pulumi  <br>- **Monitoring & Logging:** Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana)  <br><br>### 🛠 **Tools & Workflow**  <br>- **Version Control & Collaboration:** Git, GitHub, GitLab, Bitbucket  <br>- **Project Management:** Jira, Trello, Notion, Asana  <br>- **APIs & Backend Services:** REST, GraphQL, WebSockets, gRPC  <br>- **Testing & Debugging:** Jest, Mocha, Chai, Cypress, Postman, Selenium  <br><br>---<br><br>## 🎯 **Projects & Achievements**  <br>🔹 **LLM-Powered Chatbot** – Built a multimodal chatbot using **Mistral 7B & LLAVA 1.6** for AI-driven assistance.  <br>🔹 **AI-based Waste Management System** – Developed an AI-powered **route optimization system** for waste collection.  <br>🔹 **GANs for Image Generation** – Created a **Transformer-based GAN** model for high-quality image synthesis.  <br>🔹 **Automated Bus Scheduling System** – Optimized transportation using **GIS & Data Analytics**.  <br>🔹 **Smart India Hackathon (SIH) Project** – Built an AI model to **predict the physical properties of Aluminium Wire Rods**.  <br>🔹 **Full-Stack NFT Marketplace** – Developed a **decentralized NFT trading platform** with Solidity & React.  <br>🔹 **DevOps CI/CD Pipeline** – Implemented a **fully automated deployment pipeline** using GitHub Actions & Docker.  <br><br>---<br><br>## 🚀 **Hackathons & Open Source Contributions**  <br>I actively participate in **Devfolio Hackathons**, contribute to **open-source projects**, and love collaborating on **high-impact tech solutions**. Always looking for exciting challenges!  <br><br>---<br><br>## 📫 **Connect with Me**  <br>💼 **LinkedIn:** [Sangeeth Karunakaran](https://www.linkedin.com/in/sangeethkarunakaran)  <br>🌐 **Portfolio:** Coming Soon  <br>
-
-
-
-### Languages
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-</div>
-
-### Frameworks & Libraries
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
@@ -46,25 +25,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/preact/preact-original.svg" height="40" alt="preact logo"  />
 </div>
-
-### State Management
-<div align="left">
+  <br>- **State Management:** Redux, Zustand, Recoil, Vuex, Pinia <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuex/vuex-original.svg" height="40" alt="vuex logo"  />
-</div>
-
-### Mobile & Cross-Platform Development
-<div align="left">
+</div> <br>- **Mobile & Cross-Platform Development:** React Native, Flutter, Expo <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" height="40" alt="expo logo"  />
-</div>
-
-### UI/UX & Component Libraries
-<div align="left">
+</div> <br>- **UI/UX & Component Libraries:** Material UI, Ant Design, Chakra UI, Tailwind CSS, Bootstrap, ShadCN <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/antdesign/antdesign-original.svg" height="40" alt="antdesign logo"  />
@@ -75,17 +46,18 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
 </div>
-
-### Web Performance & Optimization
-<div align="left">
+ <br>- **Web Performance & Optimization:** Webpack, Vite, Babel, ESLint, Lighthouse <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="40" alt="babel logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo"  />
 </div>
+ <br><br>### 🔧 **Backend Development**  <br>- **Languages:** JavaScript, TypeScript, Python, Go, Rust, Java, PHP, C#  <br>- **Frameworks & Libraries:**  <br>  - **JavaScript/TypeScript:** Node.js, Express.js, NestJS, Fastify  <br>  - **Python:** Django, Flask, FastAPI  <br>  - **Go:** Gin, Fiber, Echo  <br>  - **Java:** Spring Boot, Micronaut  <br>  - **PHP:** Laravel, CodeIgniter  <br>  - **C#/.NET:** ASP.NET Core, Blazor  <br>- **Database Management:** MySQL, PostgreSQL, MongoDB, Firebase, SQLite, Redis, Cassandra  <br>- **Authentication & Security:** JWT, OAuth 2.0, Firebase Auth, LDAP, Keycloak  <br>- **Message Queues & Event-Driven Architecture:** RabbitMQ, Kafka, NATS, Redis Pub/Sub  <br>- **API Development:** RESTful APIs, GraphQL (Apollo, Hasura), gRPC  <br><br>### 🤖 **AI, LLMs & Machine Learning**  <br>- **LLMs & NLP:** Mistral 7B, LLAVA 1.6, LangChain, OpenAI API  <br>- **Deep Learning:** TensorFlow, PyTorch, Keras, Hugging Face Transformers  <br>- **Computer Vision:** OpenCV, YOLO, GANs, MediaPipe  <br>- **Data Analytics & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Plotly  <br>- **AI-Powered Optimization:** Reinforcement Learning, Genetic Algorithms  <br><br>### 🔗 **Blockchain & Web3 Development**  <br>- **Smart Contract Development:** Solidity, Rust (for Solana), Vyper  <br>- **Blockchain Networks:** Ethereum, Polygon, Solana, Binance Smart Chain (BSC)  <br>- **Web3 Development:** Ethers.js, Web3.js, IPFS, Moralis, Hardhat, Foundry  <br>- **dApps & DeFi:** NFT Marketplaces, DAO Platforms, Smart Contract Audits  <br><br>### ⚙️ **DevOps, Cloud & Infrastructure**  <br>- **CI/CD & Automation:** Docker, Kubernetes, GitHub Actions, GitLab CI/CD  <br>- **Cloud Platforms:** AWS (EC2, S3, Lambda, RDS), Firebase, Vercel, Netlify, DigitalOcean  <br>- **Infrastructure as Code (IaC):** Terraform, Ansible, Pulumi  <br>- **Monitoring & Logging:** Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana)  <br><br>### 🛠 **Tools & Workflow**  <br>- **Version Control & Collaboration:** Git, GitHub, GitLab, Bitbucket  <br>- **Project Management:** Jira, Trello, Notion, Asana  <br>- **APIs & Backend Services:** REST, GraphQL, WebSockets, gRPC  <br>- **Testing & Debugging:** Jest, Mocha, Chai, Cypress, Postman, Selenium  <br><br>---<br><br>## 🎯 **Projects & Achievements**  <br>🔹 **LLM-Powered Chatbot** – Built a multimodal chatbot using **Mistral 7B & LLAVA 1.6** for AI-driven assistance.  <br>🔹 **AI-based Waste Management System** – Developed an AI-powered **route optimization system** for waste collection.  <br>🔹 **GANs for Image Generation** – Created a **Transformer-based GAN** model for high-quality image synthesis.  <br>🔹 **Automated Bus Scheduling System** – Optimized transportation using **GIS & Data Analytics**.  <br>🔹 **Smart India Hackathon (SIH) Project** – Built an AI model to **predict the physical properties of Aluminium Wire Rods**.  <br>🔹 **Full-Stack NFT Marketplace** – Developed a **decentralized NFT trading platform** with Solidity & React.  <br>🔹 **DevOps CI/CD Pipeline** – Implemented a **fully automated deployment pipeline** using GitHub Actions & Docker.  <br><br>---<br><br>## 🚀 **Hackathons & Open Source Contributions**  <br>I actively participate in **Devfolio Hackathons**, contribute to **open-source projects**, and love collaborating on **high-impact tech solutions**. Always looking for exciting challenges!  <br><br>---<br><br>## 📫 **Connect with Me**  <br>💼 **LinkedIn:** [Sangeeth Karunakaran](https://www.linkedin.com/in/sangeethkarunakaran)  <br>🌐 **Portfolio:** Coming Soon  <br>
 
-This should help you organize the technologies visually in your README or documentation.
+
+
+
 
 
 # 💻 Tech Stack:
