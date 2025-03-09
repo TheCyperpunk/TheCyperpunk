@@ -4,56 +4,51 @@
   <br>- **State Management:** Redux, Zustand, Recoil, Vuex, Pinia  <br>- **Mobile & Cross-Platform Development:** React Native, Flutter, Expo  <br>- **UI/UX & Component Libraries:** Material UI, Ant Design, Chakra UI, Tailwind CSS, Bootstrap, ShadCN  <br>- **Web Performance & Optimization:** Webpack, Vite, Babel, ESLint, Lighthouse  <br><br>### 🔧 **Backend Development**  <br>- **Languages:** JavaScript, TypeScript, Python, Go, Rust, Java, PHP, C#  <br>- **Frameworks & Libraries:**  <br>  - **JavaScript/TypeScript:** Node.js, Express.js, NestJS, Fastify  <br>  - **Python:** Django, Flask, FastAPI  <br>  - **Go:** Gin, Fiber, Echo  <br>  - **Java:** Spring Boot, Micronaut  <br>  - **PHP:** Laravel, CodeIgniter  <br>  - **C#/.NET:** ASP.NET Core, Blazor  <br>- **Database Management:** MySQL, PostgreSQL, MongoDB, Firebase, SQLite, Redis, Cassandra  <br>- **Authentication & Security:** JWT, OAuth 2.0, Firebase Auth, LDAP, Keycloak  <br>- **Message Queues & Event-Driven Architecture:** RabbitMQ, Kafka, NATS, Redis Pub/Sub  <br>- **API Development:** RESTful APIs, GraphQL (Apollo, Hasura), gRPC  <br><br>### 🤖 **AI, LLMs & Machine Learning**  <br>- **LLMs & NLP:** Mistral 7B, LLAVA 1.6, LangChain, OpenAI API  <br>- **Deep Learning:** TensorFlow, PyTorch, Keras, Hugging Face Transformers  <br>- **Computer Vision:** OpenCV, YOLO, GANs, MediaPipe  <br>- **Data Analytics & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Plotly  <br>- **AI-Powered Optimization:** Reinforcement Learning, Genetic Algorithms  <br><br>### 🔗 **Blockchain & Web3 Development**  <br>- **Smart Contract Development:** Solidity, Rust (for Solana), Vyper  <br>- **Blockchain Networks:** Ethereum, Polygon, Solana, Binance Smart Chain (BSC)  <br>- **Web3 Development:** Ethers.js, Web3.js, IPFS, Moralis, Hardhat, Foundry  <br>- **dApps & DeFi:** NFT Marketplaces, DAO Platforms, Smart Contract Audits  <br><br>### ⚙️ **DevOps, Cloud & Infrastructure**  <br>- **CI/CD & Automation:** Docker, Kubernetes, GitHub Actions, GitLab CI/CD  <br>- **Cloud Platforms:** AWS (EC2, S3, Lambda, RDS), Firebase, Vercel, Netlify, DigitalOcean  <br>- **Infrastructure as Code (IaC):** Terraform, Ansible, Pulumi  <br>- **Monitoring & Logging:** Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana)  <br><br>### 🛠 **Tools & Workflow**  <br>- **Version Control & Collaboration:** Git, GitHub, GitLab, Bitbucket  <br>- **Project Management:** Jira, Trello, Notion, Asana  <br>- **APIs & Backend Services:** REST, GraphQL, WebSockets, gRPC  <br>- **Testing & Debugging:** Jest, Mocha, Chai, Cypress, Postman, Selenium  <br><br>---<br><br>## 🎯 **Projects & Achievements**  <br>🔹 **LLM-Powered Chatbot** – Built a multimodal chatbot using **Mistral 7B & LLAVA 1.6** for AI-driven assistance.  <br>🔹 **AI-based Waste Management System** – Developed an AI-powered **route optimization system** for waste collection.  <br>🔹 **GANs for Image Generation** – Created a **Transformer-based GAN** model for high-quality image synthesis.  <br>🔹 **Automated Bus Scheduling System** – Optimized transportation using **GIS & Data Analytics**.  <br>🔹 **Smart India Hackathon (SIH) Project** – Built an AI model to **predict the physical properties of Aluminium Wire Rods**.  <br>🔹 **Full-Stack NFT Marketplace** – Developed a **decentralized NFT trading platform** with Solidity & React.  <br>🔹 **DevOps CI/CD Pipeline** – Implemented a **fully automated deployment pipeline** using GitHub Actions & Docker.  <br><br>---<br><br>## 🚀 **Hackathons & Open Source Contributions**  <br>I actively participate in **Devfolio Hackathons**, contribute to **open-source projects**, and love collaborating on **high-impact tech solutions**. Always looking for exciting challenges!  <br><br>---<br><br>## 📫 **Connect with Me**  <br>💼 **LinkedIn:** [Sangeeth Karunakaran](https://www.linkedin.com/in/sangeethkarunakaran)  <br>🌐 **Portfolio:** Coming Soon  <br>
 
 
+<div style="display: flex; flex-wrap: wrap; gap: 12px;">
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="SASS logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="SCSS logo" />
 
+  <!-- Frameworks & Libraries -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="Svelte logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/preact/preact-original.svg" height="40" alt="Preact logo" />
 
-Sure, I can help you organize the image sources according to the tech stack categories you've provided. Here's how they can be sorted:
+  <!-- State Management -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zustand/zustand-original.svg" height="40" alt="Zustand logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/recoil/recoil-original.svg" height="40" alt="Recoil logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vuex logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pinia/pinia-original.svg" height="40" alt="Pinia logo" />
 
-### Languages
-- **JavaScript**: ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
-- **TypeScript**: ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)
-- **HTML**: ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
-- **CSS**: ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
-- **Dart**: ![Dart](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg)
-- **SASS**: ![SASS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg)
-- **SCSS**: ![SCSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg)
+  <!-- Mobile & Cross-Platform Development -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Native logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" height="40" alt="Expo logo" />
 
-### Frameworks & Libraries
-- **React.js**: ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
-- **Next.js**: ![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg)
-- **Vue.js**: ![Vue.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg)
-- **Angular**: ![Angular](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg)
-- **Svelte**: ![Svelte](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg)
-- **Preact**: ![Preact](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/preact/preact-original.svg)
+  <!-- UI/UX & Component Libraries -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="Material UI logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/antdesign/antdesign-original.svg" height="40" alt="Ant Design logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chakraui/chakraui-original.svg" height="40" alt="Chakra UI logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwind CSS logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shadcn/shadcn-original.svg" height="40" alt="ShadCN logo" />
 
-### State Management
-- **Redux**: ![Redux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg)
-- **Zustand**: ![Zustand](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zustand/zustand-original.svg)
-- **Recoil**: ![Recoil](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/recoil/recoil-original.svg)
-- **Vuex**: ![Vuex](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg)
-- **Pinia**: ![Pinia](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pinia/pinia-original.svg)
-
-### Mobile & Cross-Platform Development
-- **React Native**: ![React Native](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
-- **Flutter**: ![Flutter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg)
-- **Expo**: ![Expo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg)
-
-### UI/UX & Component Libraries
-- **Material UI**: ![Material UI](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg)
-- **Ant Design**: ![Ant Design](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/antdesign/antdesign-original.svg)
-- **Chakra UI**: ![Chakra UI](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chakraui/chakraui-original.svg)
-- **Tailwind CSS**: ![Tailwind CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg)
-- **Bootstrap**: ![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg)
-- **ShadCN**: ![ShadCN](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shadcn/shadcn-original.svg)
-
-### Web Performance & Optimization
-- **Webpack**: ![Webpack](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg)
-- **Vite**: ![Vite](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg)
-- **Babel**: ![Babel](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg)
-- **ESLint**: ![ESLint](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg)
-- **Lighthouse**: ![Lighthouse](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lighthouse/lighthouse-original.svg)
-
-This organization should help you structure your README file or any documentation according to the tech stack categories you've specified.
-
+  <!-- Web Performance & Optimization -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="Webpack logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40" alt="Vite logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="40" alt="Babel logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="ESLint logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lighthouse/lighthouse-original.svg" height="40" alt="Lighthouse logo" />
+</div>
 
 
 # 💻 Tech Stack:
