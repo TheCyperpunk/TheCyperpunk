@@ -10,6 +10,232 @@
   <br>- **State Management:** Redux, Zustand, Recoil, Vuex, Pinia  <br>- **Mobile & Cross-Platform Development:** React Native, Flutter, Expo  <br>- **UI/UX & Component Libraries:** Material UI, Ant Design, Chakra UI, Tailwind CSS, Bootstrap, ShadCN  <br>- **Web Performance & Optimization:** Webpack, Vite, Babel, ESLint, Lighthouse  <br><br>### 🔧 **Backend Development**  <br>- **Languages:** JavaScript, TypeScript, Python, Go, Rust, Java, PHP, C#  <br>- **Frameworks & Libraries:**  <br>  - **JavaScript/TypeScript:** Node.js, Express.js, NestJS, Fastify  <br>  - **Python:** Django, Flask, FastAPI  <br>  - **Go:** Gin, Fiber, Echo  <br>  - **Java:** Spring Boot, Micronaut  <br>  - **PHP:** Laravel, CodeIgniter  <br>  - **C#/.NET:** ASP.NET Core, Blazor  <br>- **Database Management:** MySQL, PostgreSQL, MongoDB, Firebase, SQLite, Redis, Cassandra  <br>- **Authentication & Security:** JWT, OAuth 2.0, Firebase Auth, LDAP, Keycloak  <br>- **Message Queues & Event-Driven Architecture:** RabbitMQ, Kafka, NATS, Redis Pub/Sub  <br>- **API Development:** RESTful APIs, GraphQL (Apollo, Hasura), gRPC  <br><br>### 🤖 **AI, LLMs & Machine Learning**  <br>- **LLMs & NLP:** Mistral 7B, LLAVA 1.6, LangChain, OpenAI API  <br>- **Deep Learning:** TensorFlow, PyTorch, Keras, Hugging Face Transformers  <br>- **Computer Vision:** OpenCV, YOLO, GANs, MediaPipe  <br>- **Data Analytics & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Plotly  <br>- **AI-Powered Optimization:** Reinforcement Learning, Genetic Algorithms  <br><br>### 🔗 **Blockchain & Web3 Development**  <br>- **Smart Contract Development:** Solidity, Rust (for Solana), Vyper  <br>- **Blockchain Networks:** Ethereum, Polygon, Solana, Binance Smart Chain (BSC)  <br>- **Web3 Development:** Ethers.js, Web3.js, IPFS, Moralis, Hardhat, Foundry  <br>- **dApps & DeFi:** NFT Marketplaces, DAO Platforms, Smart Contract Audits  <br><br>### ⚙️ **DevOps, Cloud & Infrastructure**  <br>- **CI/CD & Automation:** Docker, Kubernetes, GitHub Actions, GitLab CI/CD  <br>- **Cloud Platforms:** AWS (EC2, S3, Lambda, RDS), Firebase, Vercel, Netlify, DigitalOcean  <br>- **Infrastructure as Code (IaC):** Terraform, Ansible, Pulumi  <br>- **Monitoring & Logging:** Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana)  <br><br>### 🛠 **Tools & Workflow**  <br>- **Version Control & Collaboration:** Git, GitHub, GitLab, Bitbucket  <br>- **Project Management:** Jira, Trello, Notion, Asana  <br>- **APIs & Backend Services:** REST, GraphQL, WebSockets, gRPC  <br>- **Testing & Debugging:** Jest, Mocha, Chai, Cypress, Postman, Selenium  <br><br>---<br><br>## 🎯 **Projects & Achievements**  <br>🔹 **LLM-Powered Chatbot** – Built a multimodal chatbot using **Mistral 7B & LLAVA 1.6** for AI-driven assistance.  <br>🔹 **AI-based Waste Management System** – Developed an AI-powered **route optimization system** for waste collection.  <br>🔹 **GANs for Image Generation** – Created a **Transformer-based GAN** model for high-quality image synthesis.  <br>🔹 **Automated Bus Scheduling System** – Optimized transportation using **GIS & Data Analytics**.  <br>🔹 **Smart India Hackathon (SIH) Project** – Built an AI model to **predict the physical properties of Aluminium Wire Rods**.  <br>🔹 **Full-Stack NFT Marketplace** – Developed a **decentralized NFT trading platform** with Solidity & React.  <br>🔹 **DevOps CI/CD Pipeline** – Implemented a **fully automated deployment pipeline** using GitHub Actions & Docker.  <br><br>---<br><br>## 🚀 **Hackathons & Open Source Contributions**  <br>I actively participate in **Devfolio Hackathons**, contribute to **open-source projects**, and love collaborating on **high-impact tech solutions**. Always looking for exciting challenges!  <br><br>---<br><br>## 📫 **Connect with Me**  <br>💼 **LinkedIn:** [Sangeeth Karunakaran](https://www.linkedin.com/in/sangeethkarunakaran)  <br>🌐 **Portfolio:** Coming Soon  <br>
 
 
+
+<div align="left">
+### Frontend Development
+- **Frameworks & Libraries:**
+  - React.js: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />`
+  - Next.js: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />`
+  - Vue.js: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />`
+  - Angular: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />`
+  - Svelte: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte logo"  />`
+  - Preact: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/preact/preact-original.svg" height="40" alt="preact logo"  />`
+</div>
+<div align="left">
+- **State Management:**
+  - Redux: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />`
+  - Zustand: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zustand/zustand-original.svg" height="40" alt="zustand logo"  />`
+  - Recoil: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/recoil/recoil-original.svg" height="40" alt="recoil logo"  />`
+  - Vuex: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuex logo"  />`
+  - Pinia: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pinia/pinia-original.svg" height="40" alt="pinia logo"  />`
+</div>
+<div>
+- **UI/UX & Component Libraries:**
+  - Material UI: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />`
+  - Ant Design: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/antdesign/antdesign-original.svg" height="40" alt="antdesign logo"  />`
+  - Chakra UI: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chakraui/chakraui-original.svg" height="40" alt="chakraui logo"  />`
+  - Tailwind CSS: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />`
+  - Bootstrap: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />`
+  - ShadCN: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shadcn/shadcn-original.svg" height="40" alt="shadcn logo"  />`
+</div>
+<div align="left">
+- **Web Performance & Optimization:**
+  - Webpack: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo"  />`
+  - Vite: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40" alt="vite logo"  />`
+  - Babel: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="40" alt="babel logo"  />`
+  - ESLint: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo"  />`
+  - Lighthouse: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lighthouse/lighthouse-original.svg" height="40" alt="lighthouse logo"  />`
+</div>
+<div align="left">
+### Backend Development
+- **Languages:**
+  - JavaScript: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />`
+  - TypeScript: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />`
+  - Python: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />`
+  - Go: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />`
+  - Rust: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />`
+  - Java: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />`
+  - PHP: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />`
+  - C#: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />`
+</div>
+<div align="left">
+- **Frameworks & Libraries:**
+  - Node.js: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />`
+  - Express.js: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />`
+  - NestJS: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />`
+  - Fastify: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" height="40" alt="fastify logo"  />`
+  - Django: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />`
+  - Flask: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />`
+  - FastAPI: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />`
+  - Gin: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gin/gin-original.svg" height="40" alt="gin logo"  />`
+  - Fiber: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fiber/fiber-original.svg" height="40" alt="fiber logo"  />`
+  - Echo: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/echo/echo-original.svg" height="40" alt="echo logo"  />`
+  - Spring Boot: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />`
+  - Micronaut: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/micronaut/micronaut-original.svg" height="40" alt="micronaut logo"  />`
+  - Laravel: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="laravel logo"  />`
+  - CodeIgniter: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" alt="codeigniter logo"  />`
+  - ASP.NET Core: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />`
+  - Blazor: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" height="40" alt="blazor logo"  />`
+</div>
+<div align="left">
+- **Database Management:**
+  - MySQL: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />`
+  - PostgreSQL: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />`
+  - MongoDB: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />`
+  - Firebase: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />`
+  - SQLite: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />`
+  - Redis: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />`
+  - Cassandra: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cassandra/cassandra-original.svg" height="40" alt="cassandra logo"  />`
+</div>
+<div align="left">
+- **Authentication & Security:**
+  - JWT: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jwt/jwt-original.svg" height="40" alt="jwt logo"  />`
+  - OAuth 2.0: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oauth/oauth-original.svg" height="40" alt="oauth logo"  />`
+  - Firebase Auth: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase auth logo"  />`
+  - LDAP: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ldap/ldap-original.svg" height="40" alt="ldap logo"  />`
+  - Keycloak: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keycloak/keycloak-original.svg" height="40" alt="keycloak logo"  />`
+</div>
+<div align="left">
+- **Message Queues & Event-Driven Architecture:**
+  - RabbitMQ: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="40" alt="rabbitmq logo"  />`
+  - Kafka: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kafka/kafka-original.svg" height="40" alt="kafka logo"  />`
+  - NATS: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nats/nats-original.svg" height="40" alt="nats logo"  />`
+  - Redis Pub/Sub: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis pub/sub logo"  />`
+</div>
+<div align="left">
+- **API Development:**
+  - RESTful APIs: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rest/rest-original.svg" height="40" alt="rest logo"  />`
+  - GraphQL: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />`
+  - Apollo: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apollo/apollo-original.svg" height="40" alt="apollo logo"  />`
+  - Hasura: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hasura/hasura-original.svg" height="40" alt="hasura logo"  />`
+  - gRPC: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-original.svg" height="40" alt="grpc logo"  />`
+</div>
+<div align="left">
+### AI, LLMs & Machine Learning
+- **LLMs & NLP:**
+  - Mistral 7B: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mistral/mistral-original.svg" height="40" alt="mistral logo"  />`
+  - LLAVA 1.6: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/llava/llava-original.svg" height="40" alt="llava logo"  />`
+  - LangChain: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/langchain/langchain-original.svg" height="40" alt="langchain logo"  />`
+  - OpenAI API: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" height="40" alt="openai logo"  />`
+</div>
+<div align="left">
+- **Deep Learning:**
+  - TensorFlow: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />`
+  - PyTorch: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />`
+  - Keras: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" alt="keras logo"  />`
+  - Hugging Face Transformers: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" height="40" alt="huggingface logo"  />`
+</div>
+<div align="left">
+- **Computer Vision:**
+  - OpenCV: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />`
+  - YOLO: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yolo/yolo-original.svg" height="40" alt="yolo logo"  />`
+  - GANs: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gans/gans-original.svg" height="40" alt="gans logo"  />`
+  - MediaPipe: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mediapipe/mediapipe-original.svg" height="40" alt="mediapipe logo"  />`
+</div>
+<div align="left">
+- **Data Analytics & Visualization:**
+  - Pandas: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />`
+  - NumPy: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />`
+  - Matplotlib: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib logo"  />`
+  - Seaborn: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" height="40" alt="seaborn logo"  />`
+  - Plotly: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="40" alt="plotly logo"  />`
+</div>
+<div align="left">
+- **AI-Powered Optimization:**
+  - Reinforcement Learning: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reinforcementlearning/reinforcementlearning-original.svg" height="40" alt="reinforcementlearning logo"  />`
+  - Genetic Algorithms: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/geneticalgorithms/geneticalgorithms-original.svg" height="40" alt="geneticalgorithms logo"  />`
+</div>
+<div align="left">
+### Blockchain & Web3 Development
+- **Smart Contract Development:**
+  - Solidity: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="solidity logo"  />`
+  - Rust (for Solana): `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />`
+  - Vyper: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vyper/vyper-original.svg" height="40" alt="vyper logo"  />`
+</div>
+<div align="left">
+- **Blockchain Networks:**
+  - Ethereum: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" height="40" alt="ethereum logo"  />`
+  - Polygon: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" height="40" alt="polygon logo"  />`
+  - Solana: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solana/solana-original.svg" height="40" alt="solana logo"  />`
+  - Binance Smart Chain (BSC): `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/binance/binance-original.svg" height="40" alt="binance logo"  />`
+</div>
+<div align="left">
+- **Web3 Development:**
+  - Ethers.js: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethersjs/ethersjs-original.svg" height="40" alt="ethersjs logo"  />`
+  - Web3.js: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/web3js/web3js-original.svg" height="40" alt="web3js logo"  />`
+  - IPFS: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ipfs/ipfs-original.svg" height="40" alt="ipfs logo"  />`
+  - Moralis: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moralis/moralis-original.svg" height="40" alt="moralis logo"  />`
+  - Hardhat: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hardhat/hardhat-original.svg" height="40" alt="hardhat logo"  />`
+  - Foundry: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/foundry/foundry-original.svg" height="40" alt="foundry logo"  />`
+</div>
+<div align="left">
+- **dApps & DeFi:**
+  - NFT Marketplaces: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nft/nft-original.svg" height="40" alt="nft logo"  />`
+  - DAO Platforms: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dao/dao-original.svg" height="40" alt="dao logo"  />`
+  - Smart Contract Audits: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/smartcontractaudits/smartcontractaudits-original.svg" height="40" alt="smartcontractaudits logo"  />`
+</div>
+<div align="left">
+### DevOps, Cloud & Infrastructure
+- **CI/CD & Automation:**
+  - Docker: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />`
+  - Kubernetes: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />`
+  - GitHub Actions: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-actions.svg" height="40" alt="github actions logo"  />`
+  - GitLab CI/CD: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab ci/cd logo"  />`
+</div>
+<div align="left">
+- **Cloud Platforms:**
+  - AWS (EC2, S3, Lambda, RDS): `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws logo"  />`
+  - Firebase: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />`
+  - Vercel: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="vercel logo"  />`
+  - Netlify: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="40" alt="netlify logo"  />`
+  - DigitalOcean: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40" alt="digitalocean logo"  />`
+</div>
+<div align="left">
+- **Infrastructure as Code (IaC):**
+  - Terraform: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />`
+  - Ansible: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />`
+  - Pulumi: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pulumi/pulumi-original.svg" height="40" alt="pulumi logo"  />`
+</div>
+<div align="left">
+- **Monitoring & Logging:**
+  - Prometheus: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />`
+  - Grafana: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />`
+  - ELK Stack (Elasticsearch, Logstash, Kibana): `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elastic/elastic-original.svg" height="40" alt="elk stack logo"  />`
+</div>
+<div align="left">
+### Tools & Workflow
+- **Version Control & Collaboration:**
+  - Git: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />`
+  - GitHub: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />`
+  - GitLab: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />`
+  - Bitbucket: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="bitbucket logo"  />`
+</div>
+<div align="left">
+- **Project Management:**
+  - Jira: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />`
+  - Trello: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />`
+  - Notion: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />`
+  - Asana: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/asana/asana-original.svg" height="40" alt="asana logo"  />`
+</div>
+<div align="left">
+- **APIs & Backend Services:**
+  - REST: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rest/rest-original.svg" height="40" alt="rest logo"  />`
+  - GraphQL: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />`
+  - WebSockets: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/websockets/websockets-original.svg" height="40" alt="websockets logo"  />`
+  - gRPC: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-original.svg" height="40" alt="grpc logo"  />`
+</div>
+<div align="left">
+- **Testing & Debugging:**
+  - Jest: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />`
+  - Mocha: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" height="40" alt="mocha logo"  />`
+  - Chai: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chai/chai-original.svg" height="40" alt="chai logo"  />`
+  - Cypress: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-original.svg" height="40" alt="cypress logo"  />`
+  - Postman: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo"  />`
+  - Selenium: `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />`
+</div>
+
+
+
 # 💻 Tech Stack:
 ### LANGUAGES
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
