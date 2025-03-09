@@ -381,10 +381,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=TheCyperpunk&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=TheCyperpunk&icon=6&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
