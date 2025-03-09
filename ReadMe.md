@@ -1,70 +1,7 @@
 # 💫 About Me:
-<br><br># 👋 About Me  <br><br>Hello! I'm **Sangeeth Karunakaran**, a **3rd-year Computer Science and Engineering student** with a strong passion for **Full-Stack Development, AI, Blockchain, and DevOps**. I specialize in **building scalable, efficient, and intelligent applications** by leveraging modern technologies.  <br><br>I believe in **learning by building** and constantly explore **new frameworks and tools** to stay ahead in the ever-evolving tech landscape.  <br><br>---<br><br>## 💡 **Technical Skills & Expertise**  <br><br>### 🎨 **Frontend Development**  <br>- **Languages:** p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="42" height="42" /></a></p>
+<br><br># 👋 About Me  <br><br>Hello! I'm **Sangeeth Karunakaran**, a **3rd-year Computer Science and Engineering student** with a strong passion for **Full-Stack Development, AI, Blockchain, and DevOps**. I specialize in **building scalable, efficient, and intelligent applications** by leveraging modern technologies.  <br><br>I believe in **learning by building** and constantly explore **new frameworks and tools** to stay ahead in the ever-evolving tech landscape.  <br><br>---<br><br>## 💡 **Technical Skills & Expertise**  <br><br>### 🎨 **Frontend Development**  <br>- **Languages:**  JavaScript, TypeScript, HTML, CSS, Dart, SASS, SCSS
   <br>- **Frameworks & Libraries:** React.js, Next.js, Vue.js, Angular, Svelte, Preact 
   <br>- **State Management:** Redux, Zustand, Recoil, Vuex, Pinia  <br>- **Mobile & Cross-Platform Development:** React Native, Flutter, Expo  <br>- **UI/UX & Component Libraries:** Material UI, Ant Design, Chakra UI, Tailwind CSS, Bootstrap, ShadCN  <br>- **Web Performance & Optimization:** Webpack, Vite, Babel, ESLint, Lighthouse  <br><br>### 🔧 **Backend Development**  <br>- **Languages:** JavaScript, TypeScript, Python, Go, Rust, Java, PHP, C#  <br>- **Frameworks & Libraries:**  <br>  - **JavaScript/TypeScript:** Node.js, Express.js, NestJS, Fastify  <br>  - **Python:** Django, Flask, FastAPI  <br>  - **Go:** Gin, Fiber, Echo  <br>  - **Java:** Spring Boot, Micronaut  <br>  - **PHP:** Laravel, CodeIgniter  <br>  - **C#/.NET:** ASP.NET Core, Blazor  <br>- **Database Management:** MySQL, PostgreSQL, MongoDB, Firebase, SQLite, Redis, Cassandra  <br>- **Authentication & Security:** JWT, OAuth 2.0, Firebase Auth, LDAP, Keycloak  <br>- **Message Queues & Event-Driven Architecture:** RabbitMQ, Kafka, NATS, Redis Pub/Sub  <br>- **API Development:** RESTful APIs, GraphQL (Apollo, Hasura), gRPC  <br><br>### 🤖 **AI, LLMs & Machine Learning**  <br>- **LLMs & NLP:** Mistral 7B, LLAVA 1.6, LangChain, OpenAI API  <br>- **Deep Learning:** TensorFlow, PyTorch, Keras, Hugging Face Transformers  <br>- **Computer Vision:** OpenCV, YOLO, GANs, MediaPipe  <br>- **Data Analytics & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Plotly  <br>- **AI-Powered Optimization:** Reinforcement Learning, Genetic Algorithms  <br><br>### 🔗 **Blockchain & Web3 Development**  <br>- **Smart Contract Development:** Solidity, Rust (for Solana), Vyper  <br>- **Blockchain Networks:** Ethereum, Polygon, Solana, Binance Smart Chain (BSC)  <br>- **Web3 Development:** Ethers.js, Web3.js, IPFS, Moralis, Hardhat, Foundry  <br>- **dApps & DeFi:** NFT Marketplaces, DAO Platforms, Smart Contract Audits  <br><br>### ⚙️ **DevOps, Cloud & Infrastructure**  <br>- **CI/CD & Automation:** Docker, Kubernetes, GitHub Actions, GitLab CI/CD  <br>- **Cloud Platforms:** AWS (EC2, S3, Lambda, RDS), Firebase, Vercel, Netlify, DigitalOcean  <br>- **Infrastructure as Code (IaC):** Terraform, Ansible, Pulumi  <br>- **Monitoring & Logging:** Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana)  <br><br>### 🛠 **Tools & Workflow**  <br>- **Version Control & Collaboration:** Git, GitHub, GitLab, Bitbucket  <br>- **Project Management:** Jira, Trello, Notion, Asana  <br>- **APIs & Backend Services:** REST, GraphQL, WebSockets, gRPC  <br>- **Testing & Debugging:** Jest, Mocha, Chai, Cypress, Postman, Selenium  <br><br>---<br><br>## 🎯 **Projects & Achievements**  <br>🔹 **LLM-Powered Chatbot** – Built a multimodal chatbot using **Mistral 7B & LLAVA 1.6** for AI-driven assistance.  <br>🔹 **AI-based Waste Management System** – Developed an AI-powered **route optimization system** for waste collection.  <br>🔹 **GANs for Image Generation** – Created a **Transformer-based GAN** model for high-quality image synthesis.  <br>🔹 **Automated Bus Scheduling System** – Optimized transportation using **GIS & Data Analytics**.  <br>🔹 **Smart India Hackathon (SIH) Project** – Built an AI model to **predict the physical properties of Aluminium Wire Rods**.  <br>🔹 **Full-Stack NFT Marketplace** – Developed a **decentralized NFT trading platform** with Solidity & React.  <br>🔹 **DevOps CI/CD Pipeline** – Implemented a **fully automated deployment pipeline** using GitHub Actions & Docker.  <br><br>---<br><br>## 🚀 **Hackathons & Open Source Contributions**  <br>I actively participate in **Devfolio Hackathons**, contribute to **open-source projects**, and love collaborating on **high-impact tech solutions**. Always looking for exciting challenges!  <br><br>---<br><br>## 📫 **Connect with Me**  <br>💼 **LinkedIn:** [Sangeeth Karunakaran](https://www.linkedin.com/in/sangeethkarunakaran)  <br>🌐 **Portfolio:** Coming Soon  <br>
-
-
-
-
-
-### Frontend Development<div align="left">
-- ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
-- ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)
-- ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
-- ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
-- ![Vue.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg)
-- ![Tailwind CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg)
-- ![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg)
-- ![Webpack](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg)
-- ![Babel](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg)
-- ![Sass](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg)
-</div>
-### Backend Development
-- ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)
-- ![Express.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg)
-- ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
-- ![Django](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg)
-- ![Flask](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg)
-- ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)
-- ![Spring](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg)
-- ![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg)
-- ![Laravel](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg)
-- ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)
-- ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)
-- ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg)
-
-### AI & Machine Learning
-- ![TensorFlow](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg)
-- ![PyTorch](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg)
-- ![OpenCV](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg)
-- ![Pandas](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg)
-- ![NumPy](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg)
-
-### Blockchain & Web3 Development
-- ![Solidity](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg)
-- ![Ethereum](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg)
-- ![Web3.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/web3js/web3js-original.svg)
-- ![IPFS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ipfs/ipfs-original.svg)
-
-### DevOps & Infrastructure
-- ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)
-- ![Kubernetes](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg)
-- ![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg)
-- ![Terraform](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg)
-- ![Jenkins](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg)
-
-### Tools & Workflow
-- ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
-- ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)
-- ![Jira](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg)
-- ![Postman](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg)
-- ![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)
 
 
 
