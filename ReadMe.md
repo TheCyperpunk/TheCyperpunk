@@ -1,5 +1,6 @@
 # 💫 About Me:
-<br><br># 👋 About Me  <br><br>Hello! I'm **Sangeeth Karunakaran**, a **3rd-year Computer Science and Engineering student** with a strong passion for **Full-Stack Development, AI, Blockchain, and DevOps**. I specialize in **building scalable, efficient, and intelligent applications** by leveraging modern technologies.  <br><br>I believe in **learning by building** and constantly explore **new frameworks and tools** to stay ahead in the ever-evolving tech landscape.  <br><br>---<br><br>## 💡 **Technical Skills & Expertise**  <br><br>### 🎨 **Frontend Development**  <br>- **Languages:**  JavaScript, TypeScript, HTML, CSS, Dart, SASS, SCSS
+<br><br># 👋 About Me  <br><br>Hello! I'm **Sangeeth Karunakaran**, a **3rd-year Computer Science and Engineering student** with a strong passion for **Full-Stack Development, AI, Blockchain, and DevOps**. I specialize in **building scalable, efficient, and intelligent applications** by leveraging modern technologies.  <br><br>I believe in **learning by building** and constantly explore **new frameworks and tools** to stay ahead in the ever-evolving tech landscape.  <br><br>---<br><br>## 💡
+ **Technical Skills & Expertise**  <br><br>### 🎨 **Frontend Development**  <br>- **Languages:**  JavaScript, TypeScript, HTML, CSS, Dart, SASS, SCSS
   <br>- **Frameworks & Libraries:** React.js, Next.js, Vue.js, Angular, Svelte, Preact
   <br>- **State Management:** Redux, Zustand, Recoil, Vuex, Pinia 
  <br>- **Mobile & Cross-Platform Development:** React Native, Flutter, Expo 
