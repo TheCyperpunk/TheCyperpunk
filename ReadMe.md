@@ -1,11 +1,29 @@
-# 💫 About Me:
-<br><br># 👋 About Me  <br><br>Hello! I'm **Sangeeth Karunakaran**, a **3rd-year Computer Science and Engineering student** with a strong passion for **Full-Stack Development, AI, Blockchain, and DevOps**. I specialize in **building scalable, efficient, and intelligent applications** by leveraging modern technologies.  <br><br>I believe in **learning by building** and constantly explore **new frameworks and tools** to stay ahead in the ever-evolving tech landscape.  <br><br>---<br><br>## 💡
- **Technical Skills & Expertise**  <br><br>### 🎨 **Frontend Development**  <br>- **Languages:**  JavaScript, TypeScript, HTML, CSS, Dart, SASS, SCSS
-  <br>- **Frameworks & Libraries:** React.js, Next.js, Vue.js, Angular, Svelte, Preact
-  <br>- **State Management:** Redux, Zustand, Recoil, Vuex, Pinia 
- <br>- **Mobile & Cross-Platform Development:** React Native, Flutter, Expo 
- <br>- **UI/UX & Component Libraries:** Material UI, Ant Design, Chakra UI, Tailwind CSS, Bootstrap, ShadCN
- <br>- **Web Performance & Optimization:** Webpack, Vite, Babel, ESLint, Lighthouse 
+# 💫 About Me
+
+<br><br>
+# 👋 About Me
+<br><br>
+Hello! I'm **Sangeeth Karunakaran**, a **3rd-year Computer Science and Engineering student** with a strong passion for **Full-Stack Development, AI, Blockchain, and DevOps**. I specialize in **building scalable, efficient, and intelligent applications** by leveraging modern technologies.
+<br><br>
+I believe in **learning by building** and constantly explore **new frameworks and tools** to stay ahead in the ever-evolving tech landscape.
+<br><br>
+---
+<br><br>
+## 💡 Technical Skills & Expertise
+<br><br>
+### 🎨 **Frontend Development**
+<br>
+- **Languages:** JavaScript, TypeScript, HTML, CSS, Dart, SASS, SCSS
+<br>
+- **Frameworks & Libraries:** React.js, Next.js, Vue.js, Angular, Svelte, Preact
+<br>
+- **State Management:** Redux, Zustand, Recoil, Vuex, Pinia
+<br>
+- **Mobile & Cross-Platform Development:** React Native, Flutter, Expo
+<br>
+- **UI/UX & Component Libraries:** Material UI, Ant Design, Chakra UI, Tailwind CSS, Bootstrap, ShadCN
+<br>
+- **Web Performance & Optimization:** Webpack, Vite, Babel, ESLint, Lighthouse
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -29,14 +47,111 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo"  />
 </div>
- <br><br>### 🔧 **Backend Development**  <br>- **Languages:** JavaScript, TypeScript, Python, Go, Rust, Java, PHP, C#  <br>- **Frameworks & Libraries:**  <br>  - **JavaScript/TypeScript:** Node.js, Express.js, NestJS, Fastify  <br>  - **Python:** Django, Flask, FastAPI  <br>  - **Go:** Gin, Fiber, Echo  <br>  - **Java:** Spring Boot, Micronaut  <br>  - **PHP:** Laravel, CodeIgniter  <br>  - **C#/.NET:** ASP.NET Core, Blazor  <br>- **Database Management:** MySQL, PostgreSQL, MongoDB, Firebase, SQLite, Redis, Cassandra  <br>- **Authentication & Security:** JWT, OAuth 2.0, Firebase Auth, LDAP, Keycloak  <br>- **Message Queues & Event-Driven Architecture:** RabbitMQ, Kafka, NATS, Redis Pub/Sub  <br>- **API Development:** RESTful APIs, GraphQL (Apollo, Hasura), gRPC  <br><br>### 🤖 **AI, LLMs & Machine Learning**  <br>- **LLMs & NLP:** Mistral 7B, LLAVA 1.6, LangChain, OpenAI API  <br>- **Deep Learning:** TensorFlow, PyTorch, Keras, Hugging Face Transformers  <br>- **Computer Vision:** OpenCV, YOLO, GANs, MediaPipe  <br>- **Data Analytics & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Plotly  <br>- **AI-Powered Optimization:** Reinforcement Learning, Genetic Algorithms  <br><br>### 🔗 **Blockchain & Web3 Development**  <br>- **Smart Contract Development:** Solidity, Rust (for Solana), Vyper  <br>- **Blockchain Networks:** Ethereum, Polygon, Solana, Binance Smart Chain (BSC)  <br>- **Web3 Development:** Ethers.js, Web3.js, IPFS, Moralis, Hardhat, Foundry  <br>- **dApps & DeFi:** NFT Marketplaces, DAO Platforms, Smart Contract Audits  <br><br>### ⚙️ **DevOps, Cloud & Infrastructure**  <br>- **CI/CD & Automation:** Docker, Kubernetes, GitHub Actions, GitLab CI/CD  <br>- **Cloud Platforms:** AWS (EC2, S3, Lambda, RDS), Firebase, Vercel, Netlify, DigitalOcean  <br>- **Infrastructure as Code (IaC):** Terraform, Ansible, Pulumi  <br>- **Monitoring & Logging:** Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana)  <br><br>### 🛠 **Tools & Workflow**  <br>- **Version Control & Collaboration:** Git, GitHub, GitLab, Bitbucket  <br>- **Project Management:** Jira, Trello, Notion, Asana  <br>- **APIs & Backend Services:** REST, GraphQL, WebSockets, gRPC  <br>- **Testing & Debugging:** Jest, Mocha, Chai, Cypress, Postman, Selenium  <br><br>---<br><br>## 🎯 **Projects & Achievements**  <br>🔹 **LLM-Powered Chatbot** – Built a multimodal chatbot using **Mistral 7B & LLAVA 1.6** for AI-driven assistance.  <br>🔹 **AI-based Waste Management System** – Developed an AI-powered **route optimization system** for waste collection.  <br>🔹 **GANs for Image Generation** – Created a **Transformer-based GAN** model for high-quality image synthesis.  <br>🔹 **Automated Bus Scheduling System** – Optimized transportation using **GIS & Data Analytics**.  <br>🔹 **Smart India Hackathon (SIH) Project** – Built an AI model to **predict the physical properties of Aluminium Wire Rods**.  <br>🔹 **Full-Stack NFT Marketplace** – Developed a **decentralized NFT trading platform** with Solidity & React.  <br>🔹 **DevOps CI/CD Pipeline** – Implemented a **fully automated deployment pipeline** using GitHub Actions & Docker.  <br><br>---<br><br>## 🚀 **Hackathons & Open Source Contributions**  <br>I actively participate in **Devfolio Hackathons**, contribute to **open-source projects**, and love collaborating on **high-impact tech solutions**. Always looking for exciting challenges!  <br><br>---<br><br>## 📫 **Connect with Me**  <br>💼 **LinkedIn:** [Sangeeth Karunakaran](https://www.linkedin.com/in/sangeethkarunakaran)  <br>🌐 **Portfolio:** Coming Soon  <br>
-
-
-
-
-
-
-# 💻 Tech Stack:
+<br><br>
+### 🔧 **Backend Development**
+<br>
+- **Languages:** JavaScript, TypeScript, Python, Go, Rust, Java, PHP, C#
+<br>
+- **Frameworks & Libraries:**
+  <br>
+  - **JavaScript/TypeScript:** Node.js, Express.js, NestJS, Fastify
+  <br>
+  - **Python:** Django, Flask, FastAPI
+  <br>
+  - **Go:** Gin, Fiber, Echo
+  <br>
+  - **Java:** Spring Boot, Micronaut
+  <br>
+  - **PHP:** Laravel, CodeIgniter
+  <br>
+  - **C#/.NET:** ASP.NET Core, Blazor
+<br>
+- **Database Management:** MySQL, PostgreSQL, MongoDB, Firebase, SQLite, Redis, Cassandra
+<br>
+- **Authentication & Security:** JWT, OAuth 2.0, Firebase Auth, LDAP, Keycloak
+<br>
+- **Message Queues & Event-Driven Architecture:** RabbitMQ, Kafka, NATS, Redis Pub/Sub
+<br>
+- **API Development:** RESTful APIs, GraphQL (Apollo, Hasura), gRPC
+<br><br>
+### 🤖 **AI, LLMs & Machine Learning**
+<br>
+- **LLMs & NLP:** Mistral 7B, LLAVA 1.6, LangChain, OpenAI API
+<br>
+- **Deep Learning:** TensorFlow, PyTorch, Keras, Hugging Face Transformers
+<br>
+- **Computer Vision:** OpenCV, YOLO, GANs, MediaPipe
+<br>
+- **Data Analytics & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Plotly
+<br>
+- **AI-Powered Optimization:** Reinforcement Learning, Genetic Algorithms
+<br><br>
+### 🔗 **Blockchain & Web3 Development**
+<br>
+- **Smart Contract Development:** Solidity, Rust (for Solana), Vyper
+<br>
+- **Blockchain Networks:** Ethereum, Polygon, Solana, Binance Smart Chain (BSC)
+<br>
+- **Web3 Development:** Ethers.js, Web3.js, IPFS, Moralis, Hardhat, Foundry
+<br>
+- **dApps & DeFi:** NFT Marketplaces, DAO Platforms, Smart Contract Audits
+<br><br>
+### ⚙️ **DevOps, Cloud & Infrastructure**
+<br>
+- **CI/CD & Automation:** Docker, Kubernetes, GitHub Actions, GitLab CI/CD
+<br>
+- **Cloud Platforms:** AWS (EC2, S3, Lambda, RDS), Firebase, Vercel, Netlify, DigitalOcean
+<br>
+- **Infrastructure as Code (IaC):** Terraform, Ansible, Pulumi
+<br>
+- **Monitoring & Logging:** Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana)
+<br><br>
+### 🛠 **Tools & Workflow**
+<br>
+- **Version Control & Collaboration:** Git, GitHub, GitLab, Bitbucket
+<br>
+- **Project Management:** Jira, Trello, Notion, Asana
+<br>
+- **APIs & Backend Services:** REST, GraphQL, WebSockets, gRPC
+<br>
+- **Testing & Debugging:** Jest, Mocha, Chai, Cypress, Postman, Selenium
+<br><br>
+---
+<br><br>
+## 🎯 **Projects & Achievements**
+<br>
+🔹 **LLM-Powered Chatbot** – Built a multimodal chatbot using **Mistral 7B & LLAVA 1.6** for AI-driven assistance.
+<br>
+🔹 **AI-based Waste Management System** – Developed an AI-powered **route optimization system** for waste collection.
+<br>
+🔹 **GANs for Image Generation** – Created a **Transformer-based GAN** model for high-quality image synthesis.
+<br>
+🔹 **Automated Bus Scheduling System** – Optimized transportation using **GIS & Data Analytics**.
+<br>
+🔹 **Smart India Hackathon (SIH) Project** – Built an AI model to **predict the physical properties of Aluminium Wire Rods**.
+<br>
+🔹 **Full-Stack NFT Marketplace** – Developed a **decentralized NFT trading platform** with Solidity & React.
+<br>
+🔹 **DevOps CI/CD Pipeline** – Implemented a **fully automated deployment pipeline** using GitHub Actions & Docker.
+<br><br>
+---
+<br><br>
+## 🚀 **Hackathons & Open Source Contributions**
+<br>
+I actively participate in **Devfolio Hackathons**, contribute to **open-source projects**, and love collaborating on **high-impact tech solutions**. Always looking for exciting challenges!
+<br><br>
+---
+<br><br>
+## 📫 **Connect with Me**
+<br>
+💼 **LinkedIn:** [Sangeeth Karunakaran](https://www.linkedin.com/in/sangeethkarunakaran)
+<br>
+🌐 **Portfolio:** Coming Soon
+<br><br>
+---
+<br><br>
+## 💻 Tech Stack
+<br><br>
 ### LANGUAGES
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -64,7 +179,7 @@
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-
+<br><br>
 ### Hosting/SaaS
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -84,7 +199,7 @@
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-
+<br><br>
 ### FRAMEWORKS
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
@@ -200,7 +315,7 @@
 ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Arango DB](https://img.shields.io/badge/Arango%20DB-DDE072?style=for-the-badge&logo=arangodb&logoColor=white)
-
+<br><br>
 ### PLATFORMS & LIBRARIES
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
@@ -258,13 +373,13 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-
+<br><br>
 ### SERVERS
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=%BBDEAD)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-
+<br><br>
 ### DATABASES / ORM
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
@@ -291,7 +406,7 @@
 ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Arango DB](https://img.shields.io/badge/Arango%20DB-DDE072?style=for-the-badge&logo=arangodb&logoColor=white)
-
+<br><br>
 ### DESIGN
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
@@ -315,7 +430,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)
 ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white)
-
+<br><br>
 ### ML/DL
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
@@ -326,7 +441,7 @@
 ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
+<br><br>
 ### CI/CD VCS
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Mercurial](https://img.shields.io/badge/mercurial-999999.svg?style=for-the-badge&logo=mercurial&logoColor=white)
@@ -357,7 +472,7 @@
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
-
+<br><br>
 ### OTHER
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
@@ -403,18 +518,15 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-
-# 📊 GitHub Stats:
+<br><br>
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TheCyperpunk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=TheCyperpunk&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyperpunk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<br><br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TheCyperpunk&theme=prussian&no-frame=false&no-bg=false&margin-w=4)
-
+<br><br>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
