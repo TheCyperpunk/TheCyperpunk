@@ -1,6 +1,7 @@
 # 💫 About Me
 
 <br><br>
+
 # 👋 About Me
 <br><br>
 Hello! I'm **Sangeeth Karunakaran**, a **3rd-year Computer Science and Engineering student** with a strong passion for **Full-Stack Development, AI, Blockchain, and DevOps**. I specialize in **building scalable, efficient, and intelligent applications** by leveraging modern technologies.
@@ -9,8 +10,10 @@ I believe in **learning by building** and constantly explore **new frameworks an
 <br><br>
 ---
 <br><br>
+
 ## 💡 Technical Skills & Expertise
 <br><br>
+
 ### 🎨 **Frontend Development**
 <br>
 - **Languages:** JavaScript, TypeScript, HTML, CSS, Dart, SASS, SCSS
@@ -25,29 +28,30 @@ I believe in **learning by building** and constantly explore **new frameworks an
 <br>
 - **Web Performance & Optimization:** Webpack, Vite, Babel, ESLint, Lighthouse
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="40" alt="babel logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="40" alt="babel logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo" />
 </div>
 <br><br>
+
 ### 🔧 **Backend Development**
 <br>
 - **Languages:** JavaScript, TypeScript, Python, Go, Rust, Java, PHP, C#
@@ -74,6 +78,7 @@ I believe in **learning by building** and constantly explore **new frameworks an
 <br>
 - **API Development:** RESTful APIs, GraphQL (Apollo, Hasura), gRPC
 <br><br>
+
 ### 🤖 **AI, LLMs & Machine Learning**
 <br>
 - **LLMs & NLP:** Mistral 7B, LLAVA 1.6, LangChain, OpenAI API
@@ -86,6 +91,7 @@ I believe in **learning by building** and constantly explore **new frameworks an
 <br>
 - **AI-Powered Optimization:** Reinforcement Learning, Genetic Algorithms
 <br><br>
+
 ### 🔗 **Blockchain & Web3 Development**
 <br>
 - **Smart Contract Development:** Solidity, Rust (for Solana), Vyper
@@ -96,6 +102,7 @@ I believe in **learning by building** and constantly explore **new frameworks an
 <br>
 - **dApps & DeFi:** NFT Marketplaces, DAO Platforms, Smart Contract Audits
 <br><br>
+
 ### ⚙️ **DevOps, Cloud & Infrastructure**
 <br>
 - **CI/CD & Automation:** Docker, Kubernetes, GitHub Actions, GitLab CI/CD
@@ -106,6 +113,7 @@ I believe in **learning by building** and constantly explore **new frameworks an
 <br>
 - **Monitoring & Logging:** Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana)
 <br><br>
+
 ### 🛠 **Tools & Workflow**
 <br>
 - **Version Control & Collaboration:** Git, GitHub, GitLab, Bitbucket
@@ -118,6 +126,7 @@ I believe in **learning by building** and constantly explore **new frameworks an
 <br><br>
 ---
 <br><br>
+
 ## 🎯 **Projects & Achievements**
 <br>
 🔹 **LLM-Powered Chatbot** – Built a multimodal chatbot using **Mistral 7B & LLAVA 1.6** for AI-driven assistance.
@@ -136,20 +145,21 @@ I believe in **learning by building** and constantly explore **new frameworks an
 <br><br>
 ---
 <br><br>
+
 ## 🚀 **Hackathons & Open Source Contributions**
 <br>
 I actively participate in **Devfolio Hackathons**, contribute to **open-source projects**, and love collaborating on **high-impact tech solutions**. Always looking for exciting challenges!
 <br><br>
 ---
 <br><br>
+
 ## 📫 **Connect with Me**
 <br>
 💼 **LinkedIn:** [Sangeeth Karunakaran](https://www.linkedin.com/in/sangeethkarunakaran)
 <br>
 🌐 **Portfolio:** Coming Soon
-<br><br>
----
-<br><br>
+<br>
+
 ## 💻 Tech Stack
 <br><br>
 ### LANGUAGES
