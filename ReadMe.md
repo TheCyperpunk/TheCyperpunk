@@ -674,5 +674,8 @@ I actively participate in **Devfolio Hackathons**, contribute to **open-source p
 
 <img src="https://raw.githubusercontent.com/TheCyperpunk/TheCyperpunk/output/snake.svg" alt="Snake animation" />
 
-
+<p align="center">
+<img alt="github contribution grid snake animation" src="dist/github-contribution-grid-snake.gif" />
+<img alt="github contribution grid snake animation dark" src="dist/github-contribution-grid-snake-dark.gif" />
+</p>
 
