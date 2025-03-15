@@ -16,7 +16,7 @@ I believe in **learning by building** and constantly explore **new frameworks an
 
 ## 🎨 Frontend Development
 
-- **Languages:** JavaScript, TypeScript, HTML, CSS, Dart, SASS, SCSS
+- **Languages:** JavaScript, TypeScript, HTML, CSS, Dart, SASS, SCSS![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 - **Frameworks & Libraries:** React.js, Next.js, Vue.js, Angular, Svelte, Preact
 - **State Management:** Redux, Zustand, Recoil, Vuex, Pinia
 - **Mobile & Cross-Platform Development:** React Native, Flutter, Expo
