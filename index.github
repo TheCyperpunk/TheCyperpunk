@@ -15,7 +15,7 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk/svg-to-gif@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: ${{ Thecyperpunk }}
           outputs: |
             dist/github-contribution-grid-snake.gif
             dist/github-contribution-grid-snake-dark.gif?palette=github-dark
