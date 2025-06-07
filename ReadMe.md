@@ -2,7 +2,7 @@
 
 
 <br><br>
-Hello! I'm **Sangeeth Karunakaran**, a **3rd-year Computer Science and Engineering student** with a strong passion for **Full-Stack Development, AI, Blockchain, and DevOps**. I specialize in **building scalable, efficient, and intelligent applications** by leveraging modern technologies.
+Hello! I'm **Sangeeth Karunakaran**, with a strong passion for **Full-Stack Development, AI, Blockchain, and DevOps**. I specialize in **building scalable, efficient, and intelligent applications** by leveraging modern technologies.
 <br><br>
 I believe in **learning by building** and constantly explore **new frameworks and tools** to stay ahead in the ever-evolving tech landscape.
 <br><br>
