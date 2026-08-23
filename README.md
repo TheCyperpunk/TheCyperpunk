@@ -126,58 +126,71 @@ I enjoy learning by building real-world products and experimenting with modern t
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![REST](https://img.shields.io/badge/REST-000000?style=for-the-badge)
 
-# ?? Featured Projects
+# 🚀 Featured Projects
 
-## ?? XMO � Privacy-Focused Messaging Platform
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A privacy-focused messaging SuperApp built around Matrix, supporting real-time communication, group messaging, encrypted media, cross-device synchronization, WebRTC communication, wallet authentication and media streaming.
+### 🔐 XMO — Privacy-Focused Messaging Platform
+> A privacy-focused messaging SuperApp built around Matrix, supporting real-time communication, group messaging, encrypted media, cross-device synchronization, **WebRTC communication**, wallet authentication and media streaming.
 
-**Core Technologies:** Flutter, Dart, Matrix, Synapse, PostgreSQL, Firebase, WebRTC, Docker
+`Flutter` `Dart` `Matrix` `Synapse` `PostgreSQL` `Firebase` `WebRTC` `Docker`
 
-?? https://xmo.dpdns.org/  
-?? https://github.com/orgs/XMOAPP/repositories
+🌐 https://xmo.dpdns.org/  
+💻 https://github.com/orgs/XMOAPP/repositories
 
-## ?? Videx � Video Discovery Platform
+</td>
+<td width="50%" valign="top">
 
-A full-stack video discovery platform with searchable, categorized and trending content. The project includes a dedicated backend API architecture covering video, search, trending, categories and scraping functionality, with containerized frontend/backend deployment.
+### 🎥 Videx — Video Discovery Platform
+> A full-stack video discovery platform with searchable, categorized and trending content. The project includes a dedicated **backend API architecture** covering video, search, trending, categories and scraping functionality, with **containerized frontend/backend deployment**.
 
-**Core Technologies:** Next.js, React, TypeScript, Fastify, MongoDB, Mongoose, Docker, Kubernetes
+`Next.js` `React` `TypeScript` `Fastify` `MongoDB` `Mongoose` `Docker` `Kubernetes`
 
-?? https://github.com/TheCyperpunk/videoplatform
+💻 https://github.com/TheCyperpunk/videoplatform
 
-## ?? Onchain SIP � Decentralized Investment Platform
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-A Web3 Systematic Investment Plan platform designed to automate decentralized investment workflows through smart contracts and wallet interaction.
+### 💰 Onchain SIP — Decentralized Investment Platform
+> A Web3 Systematic Investment Plan platform designed to automate **decentralized investment workflows** through smart contracts and wallet interaction.
 
-**Core Technologies:** Solidity, Hardhat, React, Node.js, Ethers.js, Web3.js
+`Solidity` `Hardhat` `React` `Node.js` `Ethers.js` `Web3.js`
 
-?? https://onchainsip.vercel.app/  
-?? https://github.com/TheCyperpunk/collegeproject
+🌐 https://onchainsip.vercel.app/  
+💻 https://github.com/TheCyperpunk/collegeproject
 
-## ?? Auradesk � Private Multimodal AI
+</td>
+<td width="50%" valign="top">
 
-A privacy-focused local AI assistant designed around local LLM inference and multimodal interaction.
+### 🤖 Auradesk — Private Multimodal AI
+> A privacy-focused **local AI assistant** designed around local LLM inference and multimodal interaction. Features include: **Local LLM inference**, multimodal conversations, vision capabilities, RAG, speech processing, web search integration.
 
-**Core Technologies:** Svelte, Node.js, Ollama, Python, TypeScript, Docker, REST APIs
+`Svelte` `Node.js` `Ollama` `Python` `TypeScript` `Docker` `REST APIs`
 
-Features include:
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-- Local LLM inference
-- Multimodal conversations
-- Vision capabilities
-- RAG
-- Speech processing
-- Web search integration
+### 🚨 ZeroHour — Emergency Response CLI
+> A command-line emergency response tool designed for rapid incident reporting, data retrieval and coordination workflows.
 
-## ?? ZeroHour � Emergency Response CLI
+`Python` `Shell scripting` `CLI automation` `APIs`
 
-A command-line emergency response tool designed for rapid incident reporting, data retrieval and coordination workflows.
+</td>
+<td width="50%" valign="top">
 
-**Core Technologies:** Python, Shell scripting, CLI automation, APIs
+</td>
+</tr>
+</table>
 
-# ?? Achievements
+# 🏆 Achievements
 
-### ?? BNB Hack Kerala
+### 🥇 BNB Hack Kerala
 **Winner � Ocean Edge**  
 The Hosteller, Fort Kochi
 
