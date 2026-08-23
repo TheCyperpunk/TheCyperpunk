@@ -24,11 +24,11 @@
 <!-- SOCIALS -->
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-f59e0b?style=for-the-badge&logo=safari&logoColor=white&labelColor=d97706)](https://sangeeth-karunakaran.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=safari&logoColor=white&labelColor=0d1117)](https://sangeeth-karunakaran.vercel.app/)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-6366f1?style=for-the-badge&logo=github&logoColor=white&labelColor=4f46e5)](https://github.com/TheCyperpunk)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/TheCyperpunk)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ec4899?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=db2777&logoWidth=20)](https://www.linkedin.com/in/sangeeth-karunakaran-a60984293/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182&logoWidth=20)](https://www.linkedin.com/in/sangeeth-karunakaran-a60984293/)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-ef4444?style=for-the-badge&logo=gmail&logoColor=white&labelColor=dc2626)](mailto:sangeethkarunakaran16@gmail.com)
 
