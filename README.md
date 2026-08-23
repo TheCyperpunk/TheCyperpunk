@@ -16,6 +16,8 @@ I enjoy learning by building real-world products and experimenting with modern t
 [![GitHub](https://img.shields.io/badge/GitHub-10B981?style=for-the-badge&logo=github&logoColor=white&labelColor=047857)](https://github.com/TheCyperpunk)
 &nbsp;
 <a href="https://www.linkedin.com/in/sangeeth-karunakaran-a60984293/"><img src="./linkedin-badge.svg" alt="LinkedIn"></a>
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-059669?style=for-the-badge&logo=gmail&logoColor=white&labelColor=065f46)](mailto:sangeethkarunakaran16@gmail.com)
 
 </div>
 
