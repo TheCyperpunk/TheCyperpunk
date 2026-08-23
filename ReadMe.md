@@ -309,14 +309,11 @@ My GitHub includes projects and experiments across:
 
 ## 📫 Connect With Me
 
+<!-- SOCIALS — matching DiveshK007 badge style -->
 <div align="center">
-
-[![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-10B981?style=for-the-badge&logo=vercel&logoColor=white&labelColor=065F46)](https://sangeeth-karunakaran.vercel.app/)
-&nbsp;
-[![GITHUB](https://img.shields.io/badge/GITHUB-10B981?style=for-the-badge&logo=github&logoColor=white&labelColor=047857)](https://github.com/TheCyperpunk)
-&nbsp;
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-10B981?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=065F46)](https://www.linkedin.com/in/sangeeth-karunakaran-a60984293/)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-059669?style=for-the-badge&logo=vercel&logoColor=white&labelColor=065f46)](https://sangeeth-karunakaran.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-10B981?style=for-the-badge&logo=github&logoColor=white&labelColor=047857)](https://github.com/TheCyperpunk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-059669?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=065f46)](https://www.linkedin.com/in/sangeeth-karunakaran-a60984293/)
 </div>
 
 ---
