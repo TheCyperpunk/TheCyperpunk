@@ -44,7 +44,7 @@ I'm **Sangeeth Karunakaran**, a Computer Science and Engineering student and ful
 
 I enjoy learning by building real-world products and experimenting with modern technologies across the **frontend, backend, AI, blockchain, cloud infrastructure, and DevOps** ecosystem.
 
-# 💡 Technical Skills
+## Tech Stack
 
 ## Frontend Development
 
