@@ -14,7 +14,7 @@
 
 <!-- TYPING -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=17&pause=1000&color=10B981&center=true&vCenter=true&width=700&lines=Building+scalable+web+applications;AI-powered+systems+%2B+Web3+platforms;Privacy-focused+communication+tech;Full-stack+%C3%97+Blockchain+%C3%97+DevOps" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=17&pause=1000&color=10B981,3B82F6,A855F7,F59E0B&center=true&vCenter=true&width=700&lines=Building+scalable+web+applications;AI-powered+systems+%2B+Web3+platforms;Privacy-focused+communication+tech;Full-stack+%C3%97+Blockchain+%C3%97+DevOps&multiline=false&repeat=true" />
 </div>
 
 <br/>
