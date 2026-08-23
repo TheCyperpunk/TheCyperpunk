@@ -24,7 +24,7 @@
 <!-- SOCIALS -->
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=safari&logoColor=white&labelColor=0d1117)](https://sangeeth-karunakaran.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=safari&logoColor=white&labelColor=4f46e5)](https://sangeeth-karunakaran.vercel.app/)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-334155?style=for-the-badge&logo=github&logoColor=white&labelColor=1e293b)](https://github.com/TheCyperpunk)
 &nbsp;
