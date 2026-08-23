@@ -74,15 +74,15 @@ I enjoy learning by building real-world products and experimenting with modern t
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404040?style=for-the-badge&logo=express&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-202020?style=for-the-badge&logo=fastify&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![REST API](https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge)
-![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_APIs-6366f1?style=for-the-badge)
+![WebSockets](https://img.shields.io/badge/WebSockets-10b981?style=for-the-badge)
 
 ## AI, LLMs & RAG
 
@@ -90,10 +90,10 @@ I enjoy learning by building real-world products and experimenting with modern t
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-1e293b?style=for-the-badge)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-000000?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-0ea5e9?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-f97316?style=for-the-badge)
 
 ## Blockchain & Web3
 
