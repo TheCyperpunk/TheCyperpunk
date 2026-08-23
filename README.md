@@ -10,9 +10,9 @@ I enjoy learning by building real-world products and experimenting with modern t
 
 <!-- SOCIALS — matching DiveshK007 badge style -->
 <div align="center">
-[![Portfolio](https://img.shields.io/badge/Portfolio-059669?style=for-the-badge&logo=vercel&logoColor=white&labelColor=065f46)](https://sangeeth-karunakaran.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-10B981?style=for-the-badge&logo=github&logoColor=white&labelColor=047857)](https://github.com/TheCyperpunk)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-059669?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=065f46)](https://www.linkedin.com/in/sangeeth-karunakaran-a60984293/)
+  <a href="https://sangeeth-karunakaran.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-059669?style=for-the-badge&logo=vercel&logoColor=white&labelColor=065f46" alt="Portfolio"></a>
+  <a href="https://github.com/TheCyperpunk"><img src="https://img.shields.io/badge/GitHub-10B981?style=for-the-badge&logo=github&logoColor=white&labelColor=047857" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/sangeeth-karunakaran-a60984293/"><img src="https://img.shields.io/badge/LinkedIn-059669?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=065f46" alt="LinkedIn"></a>
 </div>
 
 ---
