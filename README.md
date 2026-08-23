@@ -126,7 +126,7 @@ I enjoy learning by building real-world products and experimenting with modern t
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![REST](https://img.shields.io/badge/REST-000000?style=for-the-badge)
 
-# 🚀 Featured Projects
+## Projects
 
 <table>
 <tr>
@@ -188,7 +188,7 @@ I enjoy learning by building real-world products and experimenting with modern t
 </tr>
 </table>
 
-# 🏆 Achievements
+## Achievements
 
 <table>
 <tr>
