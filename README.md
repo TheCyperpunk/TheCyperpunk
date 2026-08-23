@@ -10,8 +10,8 @@ I enjoy learning by building real-world products and experimenting with modern t
 
 <!-- SOCIALS — matching DiveshK007 badge style -->
 <div align="center">
-  <a href="https://sangeeth-karunakaran.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-84CC16?style=for-the-badge&logo=vercel&logoColor=white&labelColor=365314" alt="Portfolio"></a>
-  <a href="https://github.com/TheCyperpunk"><img src="https://img.shields.io/badge/GitHub-84CC16?style=for-the-badge&logo=github&logoColor=white&labelColor=365314" alt="GitHub"></a>
+  <a href="https://sangeeth-karunakaran.vercel.app/"><img src="./portfolio-badge.svg" alt="Portfolio"></a>
+  <a href="https://github.com/TheCyperpunk"><img src="./github-badge.svg" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/sangeeth-karunakaran-a60984293/"><img src="./linkedin-badge.svg" alt="LinkedIn"></a>
   <a href="mailto:sangeethkarunakaran16@gmail.com"><img src="./email-badge.svg" alt="Email"></a>
 </div>
