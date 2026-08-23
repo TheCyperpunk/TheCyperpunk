@@ -49,7 +49,7 @@ Privacy-focused messaging SuperApp built on Matrix with WebRTC, wallet authentic
 - **Tech**: Flutter, Dart, Matrix, Synapse, PostgreSQL, WebRTC, Docker
 - [Live](https://xmo.dpdns.org/) | [Code](https://github.com/orgs/XMOAPP/repositories)
 
-### Videx - Video Discovery Platform  
+### Videx - Video Discovery Platform
 Full-stack video platform with search, categories, trending content.
 - **Tech**: Next.js, TypeScript, Fastify, MongoDB, Docker, Kubernetes
 - [Code](https://github.com/TheCyperpunk/videoplatform)
