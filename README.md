@@ -137,9 +137,6 @@ I enjoy learning by building real-world products and experimenting with modern t
 
 `Flutter` `Dart` `Matrix` `Synapse` `PostgreSQL` `Firebase` `WebRTC` `Docker`
 
-🌐 https://xmo.dpdns.org/  
-💻 https://github.com/orgs/XMOAPP/repositories
-
 </td>
 <td width="50%" valign="top">
 
@@ -147,8 +144,6 @@ I enjoy learning by building real-world products and experimenting with modern t
 > A full-stack video discovery platform with searchable, categorized and trending content. The project includes a dedicated **backend API architecture** covering video, search, trending, categories and scraping functionality, with **containerized frontend/backend deployment**.
 
 `Next.js` `React` `TypeScript` `Fastify` `MongoDB` `Mongoose` `Docker` `Kubernetes`
-
-💻 https://github.com/TheCyperpunk/videoplatform
 
 </td>
 </tr>
@@ -159,9 +154,6 @@ I enjoy learning by building real-world products and experimenting with modern t
 > A Web3 Systematic Investment Plan platform designed to automate **decentralized investment workflows** through smart contracts and wallet interaction.
 
 `Solidity` `Hardhat` `React` `Node.js` `Ethers.js` `Web3.js`
-
-🌐 https://onchainsip.vercel.app/  
-💻 https://github.com/TheCyperpunk/collegeproject
 
 </td>
 <td width="50%" valign="top">
