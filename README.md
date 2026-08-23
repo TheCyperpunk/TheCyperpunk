@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:064e3b,50:065f46,100:047857&height=250&section=header&text=Sangeeth%20Karunakaran&fontSize=50&fontColor=ffffff&fontAlignY=45&desc=Full-Stack%20Developer%20%C2%B7%20AI%20%26%20Web3%20%C2%B7%20DevOps&descSize=16&descColor=d1fae5&descAlignY=65&animation=fadeIn" width="100%"/>
+  <video src="https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260328_115001_bcdaa3b4-03de-47e7-ad63-ae3e392c32d4.mp4" width="100%" autoplay loop muted playsinline></video>
 </div>
 
 <!-- INTRO -->
