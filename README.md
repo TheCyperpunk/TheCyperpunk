@@ -3,6 +3,15 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:064e3b,50:065f46,100:047857&height=250&section=header&text=Sangeeth%20Karunakaran&fontSize=50&fontColor=ffffff&fontAlignY=45&desc=Full-Stack%20Developer%20%C2%B7%20AI%20%26%20Web3%20%C2%B7%20DevOps&descSize=16&descColor=d1fae5&descAlignY=65&animation=fadeIn" width="100%"/>
 </div>
 
+<!-- INTRO -->
+<div align="center">
+
+# Hi 👋, I'm Sangeeth Karunakaran
+
+### Full-Stack Developer | AI & Web3 Developer | DevOps Enthusiast
+
+</div>
+
 <!-- TYPING -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=17&pause=1000&color=10B981&center=true&vCenter=true&width=700&lines=Building+scalable+web+applications;AI-powered+systems+%2B+Web3+platforms;Privacy-focused+communication+tech;Full-stack+%C3%97+Blockchain+%C3%97+DevOps" />
@@ -35,10 +44,6 @@
 </div>
 
 <br/>
-
-# Hi 👋, I'm Sangeeth Karunakaran
-
-### Full-Stack Developer | AI & Web3 Developer | DevOps Enthusiast
 
 ## Tech Stack
 
