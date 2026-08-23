@@ -1,12 +1,25 @@
+<!-- HEADER — Capsule render with emerald gradient -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:064e3b,50:065f46,100:047857&height=250&section=header&text=Sangeeth%20Karunakaran&fontSize=50&fontColor=ffffff&fontAlignY=45&desc=Full-Stack%20Developer%20%C2%B7%20AI%20%26%20Web3%20Developer%20%C2%B7%20DevOps%20Enthusiast&descSize=16&descColor=d1fae5&descAlignY=65&animation=fadeIn" width="100%"/>
+</div>
 
+<!-- TYPING ANIMATION -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=17&pause=1000&color=10B981&center=true&vCenter=true&width=700&lines=Building+scalable+web+applications;AI-powered+systems+%2B+Web3+platforms;Privacy-focused+communication+technologies;Full-stack+%C3%97+Blockchain+%C3%97+DevOps+%C3%97+AI" />
+</div>
 
-# Hi 👋, I'm Sangeeth Karunakaran
+<br/>
 
-### Full-Stack Developer | AI & Web3 Developer | DevOps Enthusiast
+<!-- TOP BADGES -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=TheCyperpunk&style=for-the-badge&color=059669&label=PROFILE+VIEWS&labelColor=022c22"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Hackathon_Winner-BNB_Kerala-10b981?style=for-the-badge&labelColor=022c22"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Projects-XMO_+_Videx_+_More-059669?style=for-the-badge&labelColor=022c22"/>
+</div>
 
-I'm **Sangeeth Karunakaran**, a Computer Science and Engineering student and full-stack developer passionate about building **scalable web applications, AI-powered systems, Web3 platforms, and privacy-focused communication technologies**.
-
-I enjoy learning by building real-world products and experimenting with modern technologies across the **frontend, backend, AI, blockchain, cloud infrastructure, and DevOps** ecosystem.
+<br/>
 
 <!-- SOCIALS — shields.io badges with DiveshK007 style -->
 <div align="center">
@@ -20,6 +33,8 @@ I enjoy learning by building real-world products and experimenting with modern t
 [![Email](https://img.shields.io/badge/Email-059669?style=for-the-badge&logo=gmail&logoColor=white&labelColor=065f46)](mailto:sangeethkarunakaran16@gmail.com)
 
 </div>
+
+<br/>
 
 ---
 
