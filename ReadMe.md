@@ -8,9 +8,12 @@ I'm **Sangeeth Karunakaran**, a Computer Science and Engineering student and ful
 
 I enjoy learning by building real-world products and experimenting with modern technologies across the **frontend, backend, AI, blockchain, cloud infrastructure, and DevOps** ecosystem.
 
-🌐 **Portfolio:** https://sangeeth-karunakaran.vercel.app/  
-💻 **GitHub:** https://github.com/TheCyperpunk  
-💼 **LinkedIn:** https://www.linkedin.com/in/sangeeth-karunakaran-a60984293/
+<!-- SOCIALS — matching DiveshK007 badge style -->
+<div align="center">
+[![Portfolio](https://img.shields.io/badge/Portfolio-059669?style=for-the-badge&logo=vercel&logoColor=white&labelColor=065f46)](https://sangeeth-karunakaran.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-10B981?style=for-the-badge&logo=github&logoColor=white&labelColor=047857)](https://github.com/TheCyperpunk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-059669?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=065f46)](https://www.linkedin.com/in/sangeeth-karunakaran-a60984293/)
+</div>
 
 ---
 
@@ -304,17 +307,6 @@ My GitHub includes projects and experiments across:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheCyperpunk/TheCyperpunk/output/github-snake.svg">
   <img src="https://raw.githubusercontent.com/TheCyperpunk/TheCyperpunk/output/github-snake.svg" alt="GitHub contribution snake animation" width="100%">
 </picture>
-
----
-
-## 📫 Connect With Me
-
-<!-- SOCIALS — matching DiveshK007 badge style -->
-<div align="center">
-[![Portfolio](https://img.shields.io/badge/Portfolio-059669?style=for-the-badge&logo=vercel&logoColor=white&labelColor=065f46)](https://sangeeth-karunakaran.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-10B981?style=for-the-badge&logo=github&logoColor=white&labelColor=047857)](https://github.com/TheCyperpunk)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-059669?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=065f46)](https://www.linkedin.com/in/sangeeth-karunakaran-a60984293/)
-</div>
 
 ---
 
