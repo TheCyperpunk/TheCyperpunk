@@ -13,7 +13,6 @@ I enjoy learning by building real-world products and experimenting with modern t
   <a href="https://sangeeth-karunakaran.vercel.app/"><img src="./portfolio-badge.svg" alt="Portfolio"></a>
   <a href="https://github.com/TheCyperpunk"><img src="./github-badge.svg" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/sangeeth-karunakaran-a60984293/"><img src="./linkedin-badge.svg" alt="LinkedIn"></a>
-  <a href="mailto:sangeethkarunakaran16@gmail.com"><img src="./email-badge.svg" alt="Email"></a>
 </div>
 
 ---
