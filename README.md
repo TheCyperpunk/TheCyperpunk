@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-  <video src="https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260328_115001_bcdaa3b4-03de-47e7-ad63-ae3e392c32d4.mp4" width="100%" autoplay loop muted playsinline></video>
+  <img src="ezgif.com-video-to-gif-converter.gif" width="100%"/>
 </div>
 
 <!-- INTRO -->
