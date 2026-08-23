@@ -46,7 +46,7 @@ I enjoy learning by building real-world products and experimenting with modern t
 
 # ?? Technical Skills
 
-## Frontend Development
+# Frontend Development
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
