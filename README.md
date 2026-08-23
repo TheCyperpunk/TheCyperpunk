@@ -2,11 +2,10 @@
 <img src="ezgif.com-video-to-gif-converter.gif" width="100%" style="display: block;"/>
 
 <!-- INTRO -->
-<div align="center">
+<div align="center" style="margin-top: -20px;">
 
-# Sangeeth Karunakaran
-
-#### Full-Stack Developer · AI & Web3 Developer · DevOps Enthusiast
+<h1 style="margin-bottom: 5px;">Sangeeth Karunakaran</h1>
+<h4 style="margin-top: 0;">Full-Stack Developer · AI & Web3 Developer · DevOps Enthusiast</h4>
 
 </div>
 
