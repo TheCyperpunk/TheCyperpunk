@@ -44,9 +44,9 @@ I'm **Sangeeth Karunakaran**, a Computer Science and Engineering student and ful
 
 I enjoy learning by building real-world products and experimenting with modern technologies across the **frontend, backend, AI, blockchain, cloud infrastructure, and DevOps** ecosystem.
 
-# ?? Technical Skills
+# 💡 Technical Skills
 
-# Frontend Development
+## Frontend Development
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -68,7 +68,7 @@ I enjoy learning by building real-world products and experimenting with modern t
 ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 
-# Backend Development
+## Backend Development
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -84,7 +84,7 @@ I enjoy learning by building real-world products and experimenting with modern t
 ![REST API](https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge)
 ![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=for-the-badge)
 
-# AI, LLMs & RAG
+## AI, LLMs & RAG
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -95,14 +95,14 @@ I enjoy learning by building real-world products and experimenting with modern t
 ![FAISS](https://img.shields.io/badge/FAISS-000000?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge)
 
-# Blockchain & Web3
+## Blockchain & Web3
 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
-# Decentralized & Privacy Technologies
+## Decentralized & Privacy Technologies
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -110,7 +110,7 @@ I enjoy learning by building real-world products and experimenting with modern t
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-# DevOps, Cloud & Infrastructure
+## DevOps, Cloud & Infrastructure
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -119,7 +119,7 @@ I enjoy learning by building real-world products and experimenting with modern t
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-# Tools & Workflow
+## Tools & Workflow
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
