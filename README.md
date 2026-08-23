@@ -36,8 +36,6 @@
 
 <br/>
 
-<hr style="height:0.5px; border:none; background-color:#6b7280; opacity:0.2;"/>
-
 # Hi ??, I'm Sangeeth Karunakaran
 
 ### Full-Stack Developer | AI & Web3 Developer | DevOps Enthusiast
@@ -45,8 +43,6 @@
 I'm **Sangeeth Karunakaran**, a Computer Science and Engineering student and full-stack developer passionate about building **scalable web applications, AI-powered systems, Web3 platforms, and privacy-focused communication technologies**.
 
 I enjoy learning by building real-world products and experimenting with modern technologies across the **frontend, backend, AI, blockchain, cloud infrastructure, and DevOps** ecosystem.
-
-<hr style="height:0.5px; border:none; background-color:#6b7280; opacity:0.2;"/>
 
 # ?? Technical Skills
 
@@ -72,8 +68,6 @@ I enjoy learning by building real-world products and experimenting with modern t
 ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 
-<hr style="height:0.5px; border:none; background-color:#6b7280; opacity:0.2;"/>
-
 # Backend Development
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -90,8 +84,6 @@ I enjoy learning by building real-world products and experimenting with modern t
 ![REST API](https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge)
 ![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=for-the-badge)
 
-<hr style="height:0.5px; border:none; background-color:#6b7280; opacity:0.2;"/>
-
 # AI, LLMs & RAG
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -103,16 +95,12 @@ I enjoy learning by building real-world products and experimenting with modern t
 ![FAISS](https://img.shields.io/badge/FAISS-000000?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge)
 
-<hr style="height:0.5px; border:none; background-color:#6b7280; opacity:0.2;"/>
-
 # Blockchain & Web3
 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-
-<hr style="height:0.5px; border:none; background-color:#6b7280; opacity:0.2;"/>
 
 # Decentralized & Privacy Technologies
 
@@ -121,8 +109,6 @@ I enjoy learning by building real-world products and experimenting with modern t
 ![Matrix](https://img.shields.io/badge/Matrix-000000?style=for-the-badge&logo=matrix&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-<hr style="height:0.5px; border:none; background-color:#6b7280; opacity:0.2;"/>
 
 # DevOps, Cloud & Infrastructure
 
@@ -133,16 +119,12 @@ I enjoy learning by building real-world products and experimenting with modern t
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-<hr style="height:0.5px; border:none; background-color:#6b7280; opacity:0.2;"/>
-
 # Tools & Workflow
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![REST](https://img.shields.io/badge/REST-000000?style=for-the-badge)
-
-<hr style="height:0.5px; border:none; background-color:#6b7280; opacity:0.2;"/>
 
 # ?? Featured Projects
 
@@ -155,8 +137,6 @@ A privacy-focused messaging SuperApp built around Matrix, supporting real-time c
 ?? https://xmo.dpdns.org/  
 ?? https://github.com/orgs/XMOAPP/repositories
 
-<hr style="height:0.5px; border:none; background-color:#6b7280; opacity:0.2;"/>
-
 ## ?? Videx — Video Discovery Platform
 
 A full-stack video discovery platform with searchable, categorized and trending content. The project includes a dedicated backend API architecture covering video, search, trending, categories and scraping functionality, with containerized frontend/backend deployment.
@@ -164,8 +144,6 @@ A full-stack video discovery platform with searchable, categorized and trending 
 **Core Technologies:** Next.js, React, TypeScript, Fastify, MongoDB, Mongoose, Docker, Kubernetes
 
 ?? https://github.com/TheCyperpunk/videoplatform
-
-<hr style="height:0.5px; border:none; background-color:#6b7280; opacity:0.2;"/>
 
 ## ?? Onchain SIP — Decentralized Investment Platform
 
@@ -175,8 +153,6 @@ A Web3 Systematic Investment Plan platform designed to automate decentralized in
 
 ?? https://onchainsip.vercel.app/  
 ?? https://github.com/TheCyperpunk/collegeproject
-
-<hr style="height:0.5px; border:none; background-color:#6b7280; opacity:0.2;"/>
 
 ## ?? Auradesk — Private Multimodal AI
 
@@ -193,15 +169,11 @@ Features include:
 - Speech processing
 - Web search integration
 
-<hr style="height:0.5px; border:none; background-color:#6b7280; opacity:0.2;"/>
-
 ## ?? ZeroHour — Emergency Response CLI
 
 A command-line emergency response tool designed for rapid incident reporting, data retrieval and coordination workflows.
 
 **Core Technologies:** Python, Shell scripting, CLI automation, APIs
-
-<hr style="height:0.5px; border:none; background-color:#6b7280; opacity:0.2;"/>
 
 # ?? Achievements
 
@@ -221,8 +193,6 @@ St. Thomas College
 **First Prize**  
 IIIT Kottayam
 
-<hr style="height:0.5px; border:none; background-color:#6b7280; opacity:0.2;"/>
-
 # ?? GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=TheCyperpunk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
@@ -231,15 +201,11 @@ IIIT Kottayam
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyperpunk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<hr style="height:0.5px; border:none; background-color:#6b7280; opacity:0.2;"/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheCyperpunk/TheCyperpunk/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheCyperpunk/TheCyperpunk/output/github-snake.svg">
   <img src="https://raw.githubusercontent.com/TheCyperpunk/TheCyperpunk/output/github-snake.svg" alt="Snake animation" width="100%">
 </picture>
-
-<hr style="height:0.5px; border:none; background-color:#6b7280; opacity:0.2;"/>
 
 ### ?? Build. Learn. Experiment. Repeat.
 
