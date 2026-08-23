@@ -28,7 +28,7 @@
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-10B981?style=for-the-badge&logo=github&logoColor=white&labelColor=047857)](https://github.com/TheCyperpunk)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-059669?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=065f46)](https://www.linkedin.com/in/sangeeth-karunakaran-a60984293/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-059669?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=065f46&logoWidth=20)](https://www.linkedin.com/in/sangeeth-karunakaran-a60984293/)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-059669?style=for-the-badge&logo=gmail&logoColor=white&labelColor=065f46)](mailto:sangeethkarunakaran16@gmail.com)
 
