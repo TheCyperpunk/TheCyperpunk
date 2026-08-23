@@ -12,11 +12,11 @@
 
 <!-- TOP BADGES -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheCyperpunk&style=for-the-badge&color=059669&label=PROFILE+VIEWS&labelColor=022c22"/>
+  <img src="https://komarev.com/ghpvc/?username=TheCyperpunk&style=for-the-badge&color=3b82f6&label=PROFILE+VIEWS&labelColor=1e40af"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Hackathon_Winner-BNB_Kerala-10b981?style=for-the-badge&labelColor=022c22"/>
+  <img src="https://img.shields.io/badge/Hackathon_Winner-BNB_Kerala-10b981?style=for-the-badge&labelColor=065f46"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Projects-XMO_%2B_Videx_%2B_More-059669?style=for-the-badge&labelColor=022c22"/>
+  <img src="https://img.shields.io/badge/Projects-XMO_%2B_Videx_%2B_More-8b5cf6?style=for-the-badge&labelColor=5b21b6"/>
 </div>
 
 <br/>
@@ -24,13 +24,13 @@
 <!-- SOCIALS -->
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-059669?style=for-the-badge&logo=safari&logoColor=white&labelColor=065f46)](https://sangeeth-karunakaran.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-f59e0b?style=for-the-badge&logo=safari&logoColor=white&labelColor=d97706)](https://sangeeth-karunakaran.vercel.app/)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-10B981?style=for-the-badge&logo=github&logoColor=white&labelColor=047857)](https://github.com/TheCyperpunk)
+[![GitHub](https://img.shields.io/badge/GitHub-6366f1?style=for-the-badge&logo=github&logoColor=white&labelColor=4f46e5)](https://github.com/TheCyperpunk)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-059669?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=065f46&logoWidth=20)](https://www.linkedin.com/in/sangeeth-karunakaran-a60984293/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ec4899?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=db2777&logoWidth=20)](https://www.linkedin.com/in/sangeeth-karunakaran-a60984293/)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-059669?style=for-the-badge&logo=gmail&logoColor=white&labelColor=065f46)](mailto:sangeethkarunakaran16@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ef4444?style=for-the-badge&logo=gmail&logoColor=white&labelColor=dc2626)](mailto:sangeethkarunakaran16@gmail.com)
 
 </div>
 
