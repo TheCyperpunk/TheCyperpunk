@@ -1,4 +1,4 @@
-﻿<!-- HEADER -->
+<!-- HEADER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:064e3b,50:065f46,100:047857&height=250&section=header&text=Sangeeth%20Karunakaran&fontSize=50&fontColor=ffffff&fontAlignY=45&desc=Full-Stack%20Developer%20%C2%B7%20AI%20%26%20Web3%20%C2%B7%20DevOps&descSize=16&descColor=d1fae5&descAlignY=65&animation=fadeIn" width="100%"/>
 </div>
@@ -36,9 +36,9 @@
 
 <br/>
 
-<hr style="height:1px; border:none; background-color:#374151; opacity:0.3;"/>
+<hr style="height:0.5px; border:none; background-color:#6b7280; opacity:0.2;"/>
 
-# Hi 👋, I'm Sangeeth Karunakaran
+# Hi ??, I'm Sangeeth Karunakaran
 
 ### Full-Stack Developer | AI & Web3 Developer | DevOps Enthusiast
 
@@ -46,9 +46,9 @@ I'm **Sangeeth Karunakaran**, a Computer Science and Engineering student and ful
 
 I enjoy learning by building real-world products and experimenting with modern technologies across the **frontend, backend, AI, blockchain, cloud infrastructure, and DevOps** ecosystem.
 
-<hr style="height:1px; border:none; background-color:#374151; opacity:0.3;"/>
+<hr style="height:0.5px; border:none; background-color:#6b7280; opacity:0.2;"/>
 
-# 💡 Technical Skills
+# ?? Technical Skills
 
 ## Frontend Development
 
@@ -72,7 +72,7 @@ I enjoy learning by building real-world products and experimenting with modern t
 ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 
-<hr style="height:1px; border:none; background-color:#374151; opacity:0.3;"/>
+<hr style="height:0.5px; border:none; background-color:#6b7280; opacity:0.2;"/>
 
 # Backend Development
 
@@ -90,7 +90,7 @@ I enjoy learning by building real-world products and experimenting with modern t
 ![REST API](https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge)
 ![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=for-the-badge)
 
-<hr style="height:1px; border:none; background-color:#374151; opacity:0.3;"/>
+<hr style="height:0.5px; border:none; background-color:#6b7280; opacity:0.2;"/>
 
 # AI, LLMs & RAG
 
@@ -103,7 +103,7 @@ I enjoy learning by building real-world products and experimenting with modern t
 ![FAISS](https://img.shields.io/badge/FAISS-000000?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge)
 
-<hr style="height:1px; border:none; background-color:#374151; opacity:0.3;"/>
+<hr style="height:0.5px; border:none; background-color:#6b7280; opacity:0.2;"/>
 
 # Blockchain & Web3
 
@@ -112,7 +112,7 @@ I enjoy learning by building real-world products and experimenting with modern t
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
-<hr style="height:1px; border:none; background-color:#374151; opacity:0.3;"/>
+<hr style="height:0.5px; border:none; background-color:#6b7280; opacity:0.2;"/>
 
 # Decentralized & Privacy Technologies
 
@@ -122,7 +122,7 @@ I enjoy learning by building real-world products and experimenting with modern t
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<hr style="height:1px; border:none; background-color:#374151; opacity:0.3;"/>
+<hr style="height:0.5px; border:none; background-color:#6b7280; opacity:0.2;"/>
 
 # DevOps, Cloud & Infrastructure
 
@@ -133,7 +133,7 @@ I enjoy learning by building real-world products and experimenting with modern t
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-<hr style="height:1px; border:none; background-color:#374151; opacity:0.3;"/>
+<hr style="height:0.5px; border:none; background-color:#6b7280; opacity:0.2;"/>
 
 # Tools & Workflow
 
@@ -142,43 +142,43 @@ I enjoy learning by building real-world products and experimenting with modern t
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![REST](https://img.shields.io/badge/REST-000000?style=for-the-badge)
 
-<hr style="height:1px; border:none; background-color:#374151; opacity:0.3;"/>
+<hr style="height:0.5px; border:none; background-color:#6b7280; opacity:0.2;"/>
 
-# 🚀 Featured Projects
+# ?? Featured Projects
 
-## 🔐 XMO — Privacy-Focused Messaging Platform
+## ?? XMO � Privacy-Focused Messaging Platform
 
 A privacy-focused messaging SuperApp built around Matrix, supporting real-time communication, group messaging, encrypted media, cross-device synchronization, WebRTC communication, wallet authentication and media streaming.
 
 **Core Technologies:** Flutter, Dart, Matrix, Synapse, PostgreSQL, Firebase, WebRTC, Docker
 
-🌐 https://xmo.dpdns.org/  
-💻 https://github.com/orgs/XMOAPP/repositories
+?? https://xmo.dpdns.org/  
+?? https://github.com/orgs/XMOAPP/repositories
 
-<hr style="height:1px; border:none; background-color:#374151; opacity:0.3;"/>
+<hr style="height:0.5px; border:none; background-color:#6b7280; opacity:0.2;"/>
 
-## 🎥 Videx — Video Discovery Platform
+## ?? Videx � Video Discovery Platform
 
 A full-stack video discovery platform with searchable, categorized and trending content. The project includes a dedicated backend API architecture covering video, search, trending, categories and scraping functionality, with containerized frontend/backend deployment.
 
 **Core Technologies:** Next.js, React, TypeScript, Fastify, MongoDB, Mongoose, Docker, Kubernetes
 
-💻 https://github.com/TheCyperpunk/videoplatform
+?? https://github.com/TheCyperpunk/videoplatform
 
-<hr style="height:1px; border:none; background-color:#374151; opacity:0.3;"/>
+<hr style="height:0.5px; border:none; background-color:#6b7280; opacity:0.2;"/>
 
-## 💰 Onchain SIP — Decentralized Investment Platform
+## ?? Onchain SIP � Decentralized Investment Platform
 
 A Web3 Systematic Investment Plan platform designed to automate decentralized investment workflows through smart contracts and wallet interaction.
 
 **Core Technologies:** Solidity, Hardhat, React, Node.js, Ethers.js, Web3.js
 
-🌐 https://onchainsip.vercel.app/  
-💻 https://github.com/TheCyperpunk/collegeproject
+?? https://onchainsip.vercel.app/  
+?? https://github.com/TheCyperpunk/collegeproject
 
-<hr style="height:1px; border:none; background-color:#374151; opacity:0.3;"/>
+<hr style="height:0.5px; border:none; background-color:#6b7280; opacity:0.2;"/>
 
-## 🤖 Auradesk — Private Multimodal AI
+## ?? Auradesk � Private Multimodal AI
 
 A privacy-focused local AI assistant designed around local LLM inference and multimodal interaction.
 
@@ -193,37 +193,37 @@ Features include:
 - Speech processing
 - Web search integration
 
-<hr style="height:1px; border:none; background-color:#374151; opacity:0.3;"/>
+<hr style="height:0.5px; border:none; background-color:#6b7280; opacity:0.2;"/>
 
-## 🚨 ZeroHour — Emergency Response CLI
+## ?? ZeroHour � Emergency Response CLI
 
 A command-line emergency response tool designed for rapid incident reporting, data retrieval and coordination workflows.
 
 **Core Technologies:** Python, Shell scripting, CLI automation, APIs
 
-<hr style="height:1px; border:none; background-color:#374151; opacity:0.3;"/>
+<hr style="height:0.5px; border:none; background-color:#6b7280; opacity:0.2;"/>
 
-# 🏆 Achievements
+# ?? Achievements
 
-### 🥇 BNB Hack Kerala
-**Winner — Ocean Edge**  
+### ?? BNB Hack Kerala
+**Winner � Ocean Edge**  
 The Hosteller, Fort Kochi
 
-### 🥇 Hack Europa 2.0
+### ?? Hack Europa 2.0
 **First Prize**  
 School of Engineering, Cochin University of Science and Technology (CUSAT)
 
-### 🥇 Data Innovate X Ideathon
+### ?? Data Innovate X Ideathon
 **First Prize**  
 St. Thomas College
 
-### 🥇 LastBot Hackathon
+### ?? LastBot Hackathon
 **First Prize**  
 IIIT Kottayam
 
-<hr style="height:1px; border:none; background-color:#374151; opacity:0.3;"/>
+<hr style="height:0.5px; border:none; background-color:#6b7280; opacity:0.2;"/>
 
-# 📈 GitHub Stats
+# ?? GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=TheCyperpunk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
@@ -231,7 +231,7 @@ IIIT Kottayam
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyperpunk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<hr style="height:1px; border:none; background-color:#374151; opacity:0.3;"/>
+<hr style="height:0.5px; border:none; background-color:#6b7280; opacity:0.2;"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheCyperpunk/TheCyperpunk/output/github-snake-dark.svg">
@@ -239,8 +239,8 @@ IIIT Kottayam
   <img src="https://raw.githubusercontent.com/TheCyperpunk/TheCyperpunk/output/github-snake.svg" alt="Snake animation" width="100%">
 </picture>
 
-<hr style="height:1px; border:none; background-color:#374151; opacity:0.3;"/>
+<hr style="height:0.5px; border:none; background-color:#6b7280; opacity:0.2;"/>
 
-### 🚀 Build. Learn. Experiment. Repeat.
+### ?? Build. Learn. Experiment. Repeat.
 
 I believe the best way to learn technology is to **build real products, solve real problems, and continuously improve**.
