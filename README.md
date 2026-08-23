@@ -26,7 +26,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=safari&logoColor=white&labelColor=0d1117)](https://sangeeth-karunakaran.vercel.app/)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/TheCyperpunk)
+[![GitHub](https://img.shields.io/badge/GitHub-334155?style=for-the-badge&logo=github&logoColor=white&labelColor=1e293b)](https://github.com/TheCyperpunk)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182&logoWidth=20)](https://www.linkedin.com/in/sangeeth-karunakaran-a60984293/)
 &nbsp;
