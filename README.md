@@ -6,9 +6,9 @@
 <!-- INTRO -->
 <div align="center">
 
-# Hi 👋, I'm Sangeeth Karunakaran
+# Sangeeth Karunakaran
 
-### Full-Stack Developer | AI & Web3 Developer | DevOps Enthusiast
+#### Full-Stack Developer · AI & Web3 Developer · DevOps Enthusiast
 
 </div>
 
