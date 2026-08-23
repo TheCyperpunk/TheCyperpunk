@@ -190,23 +190,44 @@ I enjoy learning by building real-world products and experimenting with modern t
 
 # 🏆 Achievements
 
-### 🥇 BNB Hack Kerala
-**Winner � Ocean Edge**  
-The Hosteller, Fort Kochi
+<table>
+<tr>
+<td width="25%" align="center" valign="top">
 
-### ?? Hack Europa 2.0
-**First Prize**  
-School of Engineering, Cochin University of Science and Technology (CUSAT)
+### 🥇
+**BNB Hack Kerala**  
+Winner — Ocean Edge  
+*The Hosteller, Fort Kochi*
 
-### ?? Data Innovate X Ideathon
-**First Prize**  
-St. Thomas College
+</td>
+<td width="25%" align="center" valign="top">
 
-### ?? LastBot Hackathon
-**First Prize**  
-IIIT Kottayam
+### 🥇
+**Hack Europa 2.0**  
+First Prize  
+*School of Engineering, CUSAT*
 
-# ?? GitHub Stats
+</td>
+<td width="25%" align="center" valign="top">
+
+### 🥇
+**Data Innovate X Ideathon**  
+First Prize  
+*St. Thomas College*
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### 🥇
+**LastBot Hackathon**  
+First Prize  
+*IIIT Kottayam*
+
+</td>
+</tr>
+</table>
+
+# 📈 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=TheCyperpunk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
