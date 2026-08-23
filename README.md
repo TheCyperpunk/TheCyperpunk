@@ -1,5 +1,11 @@
 <!-- HEADER -->
-<img src="ezgif.com-video-to-gif-converter.gif" width="100%" style="display: block; margin: 0; padding: 0;"/>
+<div style="position: relative; width: 100%;">
+  <img src="ezgif.com-video-to-gif-converter.gif" width="100%" style="display: block;"/>
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; width: 100%;">
+    <h1 style="color: white; font-size: 48px; margin: 0; text-shadow: 2px 2px 8px rgba(0,0,0,0.8);">Sangeeth Karunakaran</h1>
+    <p style="color: #d1fae5; font-size: 18px; margin-top: 10px; text-shadow: 2px 2px 6px rgba(0,0,0,0.8);">Full-Stack Developer · AI & Web3 Developer · DevOps Enthusiast</p>
+  </div>
+</div>
 
 <!-- INTRO -->
 <div align="center">
