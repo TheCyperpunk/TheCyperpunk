@@ -125,19 +125,6 @@ I enjoy learning by building real-world products and experimenting with modern t
 ![FAISS](https://img.shields.io/badge/FAISS-000000?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge)
 
-### AI Development
-
-- Local LLM inference
-- Multimodal AI
-- Vision-language models
-- Retrieval-Augmented Generation (RAG)
-- Vector search
-- Document intelligence
-- AI-assisted web search
-- Speech-to-Text / Text-to-Speech
-- LLM API integration
-- Prompt engineering
-
 ---
 
 # 🔗 Blockchain & Web3
@@ -146,19 +133,6 @@ I enjoy learning by building real-world products and experimenting with modern t
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-
-### Web3 Development
-
-- Smart contract development
-- Smart contract testing & deployment
-- Wallet integration
-- Contract interaction
-- On-chain transactions
-- DeFi applications
-- ERC-20 / ERC-721 concepts
-- Decentralized applications
-- Web3 authentication
-- Blockchain-based investment systems
 
 ---
 
@@ -169,18 +143,6 @@ I enjoy learning by building real-world products and experimenting with modern t
 ![Matrix](https://img.shields.io/badge/Matrix-000000?style=for-the-badge&logo=matrix&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-Experience with:
-
-- Matrix-based messaging architecture
-- Synapse
-- Real-time communication
-- Encrypted media workflows
-- Cross-device synchronization
-- WebRTC communication
-- Media streaming
-- Wallet-based authentication
-- Decentralized application architecture
 
 ---
 
@@ -193,18 +155,6 @@ Experience with:
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-### Infrastructure
-
-- Docker containerization
-- Kubernetes deployments
-- CI/CD workflows
-- Cloud deployment
-- Backend infrastructure
-- Linux environments
-- Reverse proxy / server deployment
-- Cloud storage
-- Production application deployment
-
 ---
 
 # 🛠️ Tools & Workflow
@@ -213,15 +163,6 @@ Experience with:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![REST](https://img.shields.io/badge/REST-000000?style=for-the-badge)
-
-- Git & GitHub
-- API development and testing
-- Postman
-- Docker
-- CLI development
-- Debugging
-- Application deployment
-- Full-stack system integration
 
 ---
 
@@ -301,25 +242,6 @@ St. Thomas College
 ### 🥇 LastBot Hackathon
 **First Prize**  
 IIIT Kottayam
-
----
-
-# 💻 Other Work
-
-My GitHub includes projects and experiments across:
-
-- Full-stack MERN applications
-- Django applications
-- Flask applications
-- REST APIs
-- Web3 applications
-- Crypto / DeFi projects
-- Matrix and decentralized messaging
-- Video platforms
-- AI / LLM experimentation
-- CLI tools
-- Database-backed applications
-- Cloud and containerized deployments
 
 ---
 
