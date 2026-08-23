@@ -36,13 +36,9 @@
 
 <br/>
 
-# Hi ??, I'm Sangeeth Karunakaran
+# Hi 👋, I'm Sangeeth Karunakaran
 
 ### Full-Stack Developer | AI & Web3 Developer | DevOps Enthusiast
-
-I'm **Sangeeth Karunakaran**, a Computer Science and Engineering student and full-stack developer passionate about building **scalable web applications, AI-powered systems, Web3 platforms, and privacy-focused communication technologies**.
-
-I enjoy learning by building real-world products and experimenting with modern technologies across the **frontend, backend, AI, blockchain, cloud infrastructure, and DevOps** ecosystem.
 
 ## Tech Stack
 
