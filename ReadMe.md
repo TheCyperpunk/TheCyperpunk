@@ -309,11 +309,15 @@ My GitHub includes projects and experiments across:
 
 ## 📫 Connect With Me
 
-💻 **GitHub:** https://github.com/TheCyperpunk
+<div align="center">
 
-💼 **LinkedIn:** https://www.linkedin.com/in/sangeeth-karunakaran-a60984293/
+[![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-10B981?style=for-the-badge&logo=vercel&logoColor=white&labelColor=065F46)](https://sangeeth-karunakaran.vercel.app/)
+&nbsp;
+[![GITHUB](https://img.shields.io/badge/GITHUB-10B981?style=for-the-badge&logo=github&logoColor=white&labelColor=047857)](https://github.com/TheCyperpunk)
+&nbsp;
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-10B981?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=065F46)](https://www.linkedin.com/in/sangeeth-karunakaran-a60984293/)
 
-🌐 **Portfolio:** https://sangeeth-karunakaran.vercel.app/
+</div>
 
 ---
 
