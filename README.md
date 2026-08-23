@@ -128,7 +128,7 @@ I enjoy learning by building real-world products and experimenting with modern t
 
 # ?? Featured Projects
 
-## ?? XMO — Privacy-Focused Messaging Platform
+## ?? XMO ï¿½ Privacy-Focused Messaging Platform
 
 A privacy-focused messaging SuperApp built around Matrix, supporting real-time communication, group messaging, encrypted media, cross-device synchronization, WebRTC communication, wallet authentication and media streaming.
 
@@ -137,7 +137,7 @@ A privacy-focused messaging SuperApp built around Matrix, supporting real-time c
 ?? https://xmo.dpdns.org/  
 ?? https://github.com/orgs/XMOAPP/repositories
 
-## ?? Videx — Video Discovery Platform
+## ?? Videx ï¿½ Video Discovery Platform
 
 A full-stack video discovery platform with searchable, categorized and trending content. The project includes a dedicated backend API architecture covering video, search, trending, categories and scraping functionality, with containerized frontend/backend deployment.
 
@@ -145,7 +145,7 @@ A full-stack video discovery platform with searchable, categorized and trending 
 
 ?? https://github.com/TheCyperpunk/videoplatform
 
-## ?? Onchain SIP — Decentralized Investment Platform
+## ?? Onchain SIP ï¿½ Decentralized Investment Platform
 
 A Web3 Systematic Investment Plan platform designed to automate decentralized investment workflows through smart contracts and wallet interaction.
 
@@ -154,7 +154,7 @@ A Web3 Systematic Investment Plan platform designed to automate decentralized in
 ?? https://onchainsip.vercel.app/  
 ?? https://github.com/TheCyperpunk/collegeproject
 
-## ?? Auradesk — Private Multimodal AI
+## ?? Auradesk ï¿½ Private Multimodal AI
 
 A privacy-focused local AI assistant designed around local LLM inference and multimodal interaction.
 
@@ -169,7 +169,7 @@ Features include:
 - Speech processing
 - Web search integration
 
-## ?? ZeroHour — Emergency Response CLI
+## ?? ZeroHour ï¿½ Emergency Response CLI
 
 A command-line emergency response tool designed for rapid incident reporting, data retrieval and coordination workflows.
 
@@ -178,7 +178,7 @@ A command-line emergency response tool designed for rapid incident reporting, da
 # ?? Achievements
 
 ### ?? BNB Hack Kerala
-**Winner — Ocean Edge**  
+**Winner ï¿½ Ocean Edge**  
 The Hosteller, Fort Kochi
 
 ### ?? Hack Europa 2.0
@@ -206,7 +206,3 @@ IIIT Kottayam
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheCyperpunk/TheCyperpunk/output/github-snake.svg">
   <img src="https://raw.githubusercontent.com/TheCyperpunk/TheCyperpunk/output/github-snake.svg" alt="Snake animation" width="100%">
 </picture>
-
-### ?? Build. Learn. Experiment. Repeat.
-
-I believe the best way to learn technology is to **build real products, solve real problems, and continuously improve**.
