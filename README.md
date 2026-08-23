@@ -227,14 +227,6 @@ First Prize
 </tr>
 </table>
 
-# 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=TheCyperpunk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=TheCyperpunk&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyperpunk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheCyperpunk/TheCyperpunk/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheCyperpunk/TheCyperpunk/output/github-snake.svg">
