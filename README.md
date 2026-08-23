@@ -1,8 +1,3 @@
-<!-- TOP WAVE -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:064e3b,50:065f46,100:047857&section=header" width="100%"/>
-</div>
-
 <!-- HEADER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:064e3b,50:065f46,100:047857&height=250&section=header&text=Sangeeth%20Karunakaran&fontSize=50&fontColor=ffffff&fontAlignY=45&desc=Full-Stack%20Developer%20%C2%B7%20AI%20%26%20Web3%20%C2%B7%20DevOps&descSize=16&descColor=d1fae5&descAlignY=65&animation=fadeIn" width="100%"/>
@@ -237,3 +232,8 @@ First Prize
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheCyperpunk/TheCyperpunk/output/github-snake.svg">
   <img src="https://raw.githubusercontent.com/TheCyperpunk/TheCyperpunk/output/github-snake.svg" alt="Snake animation" width="100%">
 </picture>
+
+<!-- FOOTER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:064e3b,50:065f46,100:047857&height=120&section=footer&animation=fadeIn" width="100%"/>
+</div>
