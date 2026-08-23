@@ -1,7 +1,5 @@
 <!-- HEADER -->
-<div align="center">
-  <img src="ezgif.com-video-to-gif-converter.gif" width="100%"/>
-</div>
+<img src="ezgif.com-video-to-gif-converter.gif" width="100%" style="display: block; margin: 0; padding: 0;"/>
 
 <!-- INTRO -->
 <div align="center">
