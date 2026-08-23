@@ -14,19 +14,6 @@ I enjoy learning by building real-world products and experimenting with modern t
 
 ---
 
-# 🚀 What I Build
-
-- 🌐 Scalable full-stack web applications
-- 🤖 AI-powered and local LLM applications
-- 🔗 Web3 and decentralized applications
-- 💬 Privacy-focused messaging systems
-- 🎥 Video and media platforms
-- ☁️ Cloud-native and containerized applications
-- ⚙️ Backend APIs and infrastructure
-- 🔐 Wallet authentication and blockchain integrations
-
----
-
 # 💡 Technical Skills
 
 ## 🎨 Frontend Development
@@ -309,18 +296,6 @@ My GitHub includes projects and experiments across:
 ![](https://nirzak-streak-stats.vercel.app/?user=TheCyperpunk&theme=dark&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyperpunk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=TheCyperpunk&theme=prussian&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-# ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ---
 
